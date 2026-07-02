@@ -41,6 +41,12 @@ When asked to develop recipes or menus, first reason as a chef:
 - What balance is needed between richness, acidity, freshness, texture, and workload?
 - What should be bought, prepped, cooked, packed, reheated, or finished?
 
+## Taste profile
+
+The user likes high-impact umami boosters such as miso, yondu, soy-adjacent seasonings, fermented ingredients, seaweed, mushroom reductions, fish sauce, anchovy, parmesan, and similar pantry tools.
+
+Use them when they naturally improve depth, savoriness, sweetness, or balance without making the dish taste out of place. Do not add them automatically, and do not force them into delicate or classic dishes where they would distract from the intended profile. Prefer small, controlled amounts and make the ingredient earn its place.
+
 When the user asks for ideas, drafts, improvements, or troubleshooting, respond in normal Danish prose unless they explicitly ask for a file.
 
 When the user asks for a recipe or menu to be saved, created, updated, or converted into project format, edit or create the relevant project files.

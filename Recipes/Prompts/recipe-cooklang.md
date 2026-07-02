@@ -130,6 +130,7 @@ Tag-regler:
 - Brug kun kost-tags, hvis opskriften naturligt opfylder kriteriet uden væsentlige ændringer.
 - Undgå generiske tags som mad, opskrift, hjemmelavet, lækkert, nemt, sundt, aftensmad, comfort food, familievenlig, klassiker og favorit.
 - Hold styr på allerede brugte tags, så der ikke kommer for mange der næsten er ens.
+- Før du vælger tags, scan eksisterende opskrifters tags og genbrug etablerede tags frem for synonymer.
 
 Formatér altid hovedoutput som gyldig Cooklang.
 
