@@ -3141,6 +3141,40 @@
     "cocktailkirsebær": {
       "unit": "stk",
       "price": 3
+    },
+    "rugbrød": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "stk": {
+          "grams": 900
+        },
+        "skive": {
+          "grams": 45
+        }
+      },
+      "yield": 1.0
+    },
+    "pålæg": {
+      "unit": "kg",
+      "price": 160
+    },
+    "ost": {
+      "unit": "kg",
+      "price": 95
+    },
+    "kaffe": {
+      "unit": "kg",
+      "price": 140,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 6
+        },
+        "tsk": {
+          "grams": 2
+        }
+      }
     }
   },
   "unitAliases": {

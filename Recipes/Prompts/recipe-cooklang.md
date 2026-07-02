@@ -66,6 +66,7 @@ Vælg præcis én `category` fra denne kontrollerede liste:
 - kager og bagværk
 - cocktails og drinks
 - drikke
+- indkøb og forbrug
 
 `category` skal være opskriftens primære placering i en kogebog. Vælg den kategori, hvor brugeren mest sandsynligt ville lede efter opskriften.
 
@@ -86,6 +87,7 @@ Kategori-regler:
 - Brug `kager og bagværk` til sødt bagværk, tærter, kager, småkager og viennoiseri.
 - Brug `cocktails og drinks` til cocktails, long drinks, sours, highballs, punches og andre blandede drinks med eller uden alkohol.
 - Brug `drikke` til saft, likører, sirupper, varme drikke og andre drikkeopskrifter, der ikke primært er cocktails eller drinks.
+- Brug `indkøb og forbrug` til utility-opskrifter og forbrugsmodeller, der primært bruges til planlægning, indkøb eller prisberegning, fx rugbrødsfrokost, frugtkurv, kontormælk, kaffe med mælk, basislager eller andre gentagne indkøbsbehov uden egentlig tilberedning.
 
 Kategori-eksempler:
 
@@ -106,6 +108,8 @@ Kategori-eksempler:
 - Jordbærtærte → kager og bagværk
 - Shiso gin sour → cocktails og drinks
 - Hyldeblomstsaft → drikke
+- Rugbrødsfrokost → indkøb og forbrug
+- Kaffe med mælk → indkøb og forbrug
 
 Vælg 3-6 `tags`.
 
