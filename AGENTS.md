@@ -25,7 +25,7 @@ Do not write decorative food copy unless asked. Prefer useful kitchen language.
 - Recipes live in `Recipes/**/*.cook`.
 - Menus live in `Menus/**/*.menu`.
 - Shared data lives in `Data/`.
-- Prompt files live in `Prompts/`.
+- Prompt files live in `Recipes/Prompts/`.
 
 Preserve folder structure and existing naming conventions.
 
@@ -55,7 +55,7 @@ When the user asks for a recipe or menu to be saved, created, updated, or conver
 
 If the user asks to create, convert, normalize, rewrite, or save a recipe as Cooklang, follow this prompt exactly:
 
-`Prompts/cooklang-recipe.md`
+`Recipes/Prompts/recipe-cooklang.md`
 
 This applies when the source is:
 
@@ -67,11 +67,18 @@ This applies when the source is:
 - notes from a conversation
 - an already developed dish that should be formalized
 
-If the user asks to create, convert, normalize, rewrite, or save a menu as a `.menu` file, follow this prompt exactly:
-
-`Prompts/cooklang-menu.md`
-
 Do not duplicate the full Cooklang rules in this file. Load the relevant prompt file when needed.
+
+## Shared recipe data upkeep
+
+When creating or changing recipes, keep shared ingredient data in sync:
+
+- Check `Data/aliases.json` for new ingredient names that are merely variants of existing names. Add aliases only when they improve real normalization.
+- Check `Data/shoppingAliases.json` when the shopping item should be consolidated differently from the recipe wording, for example citrus juice or zest to whole citrus.
+- Check `Data/prices.json` for new ingredients, missing prices, missing unit aliases, needed unit conversions, and meaningful yield values.
+- Add conservative assumed prices, conversions and `yield` only where they are needed for costing or shopping behavior.
+- Do not add noisy aliases or overly broad normalizations that erase useful culinary distinctions.
+- Preserve the existing price model: item prices have a base `unit`, optional `conversions`, and optional `yield` for usable/spiselige andel after ordinary trim. `yield` is applied after unit conversion.
 
 ## Working from images or links
 

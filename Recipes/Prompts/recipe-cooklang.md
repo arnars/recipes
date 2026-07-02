@@ -222,6 +222,18 @@ Ingredient preparation / mise en place:
 - Layoutet håndterer stort begyndelsesbogstav; brug derfor ikke kapitalisering som typografisk virkemiddel i Cooklang-filen.
 - Før output afleveres, kontrollér at ingen udstyrsting er tagget som ingrediens med `@`.
 
+Efter oprettelse eller ændring af en opskrift skal de fælles datafiler holdes ajour:
+
+- Scan opskriftens `@ingredienser{}` og kontrollér dem mod `Data/aliases.json`, `Data/shoppingAliases.json` og `Data/prices.json`.
+- Tilføj kun aliaser i `Data/aliases.json`, når en ingrediens er en reel navnevariant af en eksisterende ingrediens, fx `flagesalt` til `salt`.
+- Tilføj kun shopping-aliaser i `Data/shoppingAliases.json`, når indkøb bør samles anderledes end opskriftens ordlyd, fx `citronsaft` til `citron`.
+- Tilføj eller opdater `Data/prices.json`, når nye ingredienser, enheder, konverteringer eller relevante yield-værdier mangler for prisberegning.
+- Bevar prisfilens model: hver vare har en basis-`unit`, en `price`, valgfrie `conversions` og valgfrit `yield`.
+- `conversions` beskriver kun mængdekonvertering, fx `stk -> grams`, `spsk -> grams` eller `g -> milliliters`.
+- `yield` beskriver den brugbare/spiselige andel efter almindeligt svind og ligger på vareniveau. Hvis `yield` mangler, antages 1.0. Yield anvendes efter conversion.
+- Vær konservativ med priser, conversions og yield. Tilføj kun data, der faktisk forbedrer prisberegning, shopping eller normalisering.
+- Undgå støjende aliaser og brede normaliseringer, der fjerner nyttige kulinariske forskelle.
+
 Efter Cooklang-opskriften må du kun tilføje en kort sektion med foreslåede aliaser, hvis det er relevant.
 
 Hvis aliaser er relevante, skriv dem efter Cooklang-kodeblokken i en separat JSON-kodeblok med overskriften `Aliaser`.

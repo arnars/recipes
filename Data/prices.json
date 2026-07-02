@@ -1,0 +1,3180 @@
+{
+  "version": 1,
+  "currency": "DKK",
+  "profile": "normal",
+  "updated": "2026-07-02",
+  "assumptions": {
+    "basis": "Antagede danske normalpriser til råvareforbrug, ikke indkøbspris pr. pakke.",
+    "mode": "consumed",
+    "pantryIncluded": true,
+    "alcoholIncluded": true,
+    "uncertainty": "medium"
+  },
+  "items": {
+    "vand": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "koldt vand": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "pastavand": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "surdej": {
+      "unit": "kg",
+      "price": 0,
+      "conversions": {
+        "spsk": {
+          "grams": 15.0
+        },
+        "tsk": {
+          "grams": 5.0
+        }
+      }
+    },
+    "soffritto": {
+      "recipe": "Recipes/Basis/soffritto.cook"
+    },
+    "salt": {
+      "unit": "kg",
+      "price": 12,
+      "pantry": true,
+      "conversions": {
+        "nip": {
+          "grams": 0.5
+        },
+        "spsk": {
+          "grams": 18.0
+        },
+        "tsk": {
+          "grams": 6.0
+        }
+      }
+    },
+    "sort peber": {
+      "unit": "kg",
+      "price": 220,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 7.0
+        },
+        "tsk": {
+          "grams": 2.33
+        },
+        "stk": {
+          "grams": 0.05
+        }
+      }
+    },
+    "peberkorn": {
+      "unit": "kg",
+      "price": 220,
+      "pantry": true,
+      "conversions": {
+        "stk": {
+          "grams": 0.05
+        },
+        "spsk": {
+          "grams": 7.0
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      }
+    },
+    "sukker": {
+      "unit": "kg",
+      "price": 18,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 12.0
+        },
+        "tsk": {
+          "grams": 4.0
+        }
+      }
+    },
+    "rørsukker": {
+      "unit": "kg",
+      "price": 24,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 12.0
+        },
+        "tsk": {
+          "grams": 4.0
+        }
+      }
+    },
+    "brun farin": {
+      "unit": "kg",
+      "price": 24,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 12.0
+        },
+        "tsk": {
+          "grams": 4.0
+        }
+      }
+    },
+    "flormelis": {
+      "unit": "kg",
+      "price": 22,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8.0
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      }
+    },
+    "vaniljesukker": {
+      "unit": "kg",
+      "price": 90,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8.0
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      }
+    },
+    "vaniljestang": {
+      "unit": "stk",
+      "price": 18,
+      "pantry": true
+    },
+    "natron": {
+      "unit": "kg",
+      "price": 35,
+      "pantry": true
+    },
+    "majsstivelse": {
+      "unit": "kg",
+      "price": 45,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8.0
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      }
+    },
+    "kartoffelmel": {
+      "unit": "kg",
+      "price": 35,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8.0
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      }
+    },
+    "gær": {
+      "unit": "kg",
+      "price": 80,
+      "pantry": true
+    },
+    "xanthan": {
+      "unit": "kg",
+      "price": 650,
+      "pantry": true
+    },
+    "glukosesirup": {
+      "unit": "kg",
+      "price": 45,
+      "pantry": true,
+      "conversions": {
+        "ml": {
+          "grams": 1.35
+        },
+        "dl": {
+          "grams": 135.0
+        },
+        "l": {
+          "grams": 1350.0
+        },
+        "liter": {
+          "grams": 1350.0
+        },
+        "spsk": {
+          "grams": 20.0
+        },
+        "tsk": {
+          "grams": 6.67
+        }
+      }
+    },
+    "honning": {
+      "unit": "kg",
+      "price": 90,
+      "pantry": true,
+      "conversions": {
+        "ml": {
+          "grams": 1.42
+        },
+        "dl": {
+          "grams": 142.0
+        },
+        "l": {
+          "grams": 1420.0
+        },
+        "liter": {
+          "grams": 1420.0
+        },
+        "spsk": {
+          "grams": 21.0
+        },
+        "tsk": {
+          "grams": 7.0
+        }
+      }
+    },
+    "malt": {
+      "unit": "kg",
+      "price": 55,
+      "pantry": true
+    },
+    "maltmel": {
+      "unit": "kg",
+      "price": 55,
+      "pantry": true
+    },
+    "hvedemel": {
+      "unit": "kg",
+      "price": 18,
+      "conversions": {
+        "spsk": {
+          "grams": 9.0
+        },
+        "tsk": {
+          "grams": 3.0
+        }
+      }
+    },
+    "tipo 00-mel": {
+      "unit": "kg",
+      "price": 28
+    },
+    "manitoba/tipo 00-mel": {
+      "unit": "kg",
+      "price": 30
+    },
+    "T70 hvedemel": {
+      "unit": "kg",
+      "price": 26
+    },
+    "fuldkornshvedemel": {
+      "unit": "kg",
+      "price": 22
+    },
+    "fuldkornsmel": {
+      "unit": "kg",
+      "price": 22
+    },
+    "rugmel": {
+      "unit": "kg",
+      "price": 20
+    },
+    "semola": {
+      "unit": "kg",
+      "price": 32
+    },
+    "mandelmel": {
+      "unit": "kg",
+      "price": 120
+    },
+    "panko": {
+      "unit": "kg",
+      "price": 55
+    },
+    "daggammelt brød": {
+      "unit": "kg",
+      "price": 25
+    },
+    "brødkrumme": {
+      "unit": "kg",
+      "price": 25
+    },
+    "brødrester": {
+      "unit": "kg",
+      "price": 20,
+      "conversions": {
+        "skive": {
+          "grams": 35
+        }
+      }
+    },
+    "surdejsbrød": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "skive": {
+          "grams": 40
+        }
+      }
+    },
+    "pasta": {
+      "unit": "kg",
+      "price": 28
+    },
+    "spaghetti": {
+      "unit": "kg",
+      "price": 28
+    },
+    "penne": {
+      "unit": "kg",
+      "price": 28
+    },
+    "pappardelle": {
+      "unit": "kg",
+      "price": 45
+    },
+    "conchiglioni": {
+      "unit": "kg",
+      "price": 45
+    },
+    "ris": {
+      "unit": "kg",
+      "price": 25
+    },
+    "knækkede rugkerner": {
+      "unit": "kg",
+      "price": 22
+    },
+    "solsikkekerner": {
+      "unit": "kg",
+      "price": 35
+    },
+    "crumpets": {
+      "unit": "stk",
+      "price": 5
+    },
+    "nokedli": {
+      "unit": "kg",
+      "price": 28
+    },
+    "spätzle": {
+      "unit": "kg",
+      "price": 28
+    },
+    "smør": {
+      "unit": "kg",
+      "price": 85
+    },
+    "klaret smør": {
+      "unit": "kg",
+      "price": 105
+    },
+    "brunet smør": {
+      "unit": "kg",
+      "price": 95
+    },
+    "olivenolie": {
+      "unit": "liter",
+      "price": 95,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "neutral olie": {
+      "unit": "liter",
+      "price": 28,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "rapsolie": {
+      "unit": "liter",
+      "price": 28,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "andefedt": {
+      "unit": "kg",
+      "price": 120
+    },
+    "svinefedt": {
+      "unit": "kg",
+      "price": 65
+    },
+    "piskefløde": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "fløde": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "creme fraiche": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "ml": {
+          "grams": 1.0
+        },
+        "dl": {
+          "grams": 100.0
+        },
+        "l": {
+          "grams": 1000.0
+        },
+        "liter": {
+          "grams": 1000.0
+        }
+      }
+    },
+    "creme fraiche 38%": {
+      "unit": "kg",
+      "price": 70,
+      "conversions": {
+        "ml": {
+          "grams": 1.0
+        },
+        "dl": {
+          "grams": 100.0
+        },
+        "l": {
+          "grams": 1000.0
+        },
+        "liter": {
+          "grams": 1000.0
+        }
+      }
+    },
+    "mælk": {
+      "unit": "liter",
+      "price": 14,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "sødmælk": {
+      "unit": "liter",
+      "price": 16,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "kærnemælk": {
+      "unit": "liter",
+      "price": 15,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "ricotta": {
+      "unit": "kg",
+      "price": 95
+    },
+    "frisk mozzarella": {
+      "unit": "kg",
+      "price": 95
+    },
+    "mozzarella": {
+      "unit": "kg",
+      "price": 95
+    },
+    "burrata": {
+      "unit": "kg",
+      "price": 180
+    },
+    "parmesan": {
+      "unit": "kg",
+      "price": 240
+    },
+    "pecorino": {
+      "unit": "kg",
+      "price": 220
+    },
+    "mild gedeost": {
+      "unit": "kg",
+      "price": 180
+    },
+    "stracchino": {
+      "unit": "kg",
+      "price": 150
+    },
+    "provolone": {
+      "unit": "kg",
+      "price": 160
+    },
+    "æg": {
+      "unit": "stk",
+      "price": 3.25
+    },
+    "æggeblommer": {
+      "unit": "stk",
+      "price": 3.25
+    },
+    "æggeblomme": {
+      "unit": "stk",
+      "price": 3.25
+    },
+    "æggehvide": {
+      "unit": "kg",
+      "price": 100,
+      "conversions": {
+        "stk": {
+          "grams": 33
+        },
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103
+        },
+        "liter": {
+          "grams": 1030
+        },
+        "l": {
+          "grams": 1030
+        }
+      }
+    },
+    "æggehvider": {
+      "unit": "kg",
+      "price": 100,
+      "conversions": {
+        "stk": {
+          "grams": 33
+        },
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103
+        },
+        "liter": {
+          "grams": 1030
+        },
+        "l": {
+          "grams": 1030
+        }
+      }
+    },
+    "pasteuriseret æggehvide": {
+      "unit": "kg",
+      "price": 80
+    },
+    "hårdkogt æg": {
+      "unit": "stk",
+      "price": 3.25
+    },
+    "løg": {
+      "unit": "kg",
+      "price": 18,
+      "conversions": {
+        "stk": {
+          "grams": 125
+        },
+        "spsk": {
+          "grams": 10
+        },
+        "tsk": {
+          "grams": 3.3
+        }
+      },
+      "yield": 0.9
+    },
+    "hvide løg": {
+      "unit": "kg",
+      "price": 20,
+      "conversions": {
+        "stk": {
+          "grams": 125
+        }
+      },
+      "yield": 0.9
+    },
+    "rødløg": {
+      "unit": "kg",
+      "price": 24,
+      "conversions": {
+        "stk": {
+          "grams": 100
+        }
+      },
+      "yield": 0.9
+    },
+    "skalotteløg": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "stk": {
+          "grams": 35
+        }
+      },
+      "yield": 0.88
+    },
+    "hvidløg": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "fed": {
+          "grams": 5
+        },
+        "stk": {
+          "grams": 50
+        }
+      },
+      "yield": 0.88
+    },
+    "forårsløg": {
+      "unit": "kg",
+      "price": 80,
+      "conversions": {
+        "stk": {
+          "grams": 15
+        },
+        "bundt": {
+          "grams": 150
+        }
+      },
+      "yield": 0.8
+    },
+    "gulerod": {
+      "unit": "kg",
+      "price": 18,
+      "conversions": {
+        "stk": {
+          "grams": 90
+        }
+      },
+      "yield": 0.9
+    },
+    "gulerødder": {
+      "unit": "kg",
+      "price": 18,
+      "conversions": {
+        "stk": {
+          "grams": 90
+        }
+      },
+      "yield": 0.9
+    },
+    "nye gulerødder": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "stk": {
+          "grams": 65
+        }
+      },
+      "yield": 0.9
+    },
+    "bladselleri": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "stilk": {
+          "grams": 50
+        }
+      },
+      "yield": 0.85
+    },
+    "selleri": {
+      "unit": "kg",
+      "price": 30,
+      "conversions": {
+        "stilk": {
+          "grams": 50
+        }
+      },
+      "yield": 0.85
+    },
+    "knoldselleri": {
+      "unit": "kg",
+      "price": 26,
+      "conversions": {
+        "stk": {
+          "grams": 800
+        }
+      },
+      "yield": 0.65
+    },
+    "persillerod": {
+      "unit": "kg",
+      "price": 32,
+      "conversions": {
+        "stk": {
+          "grams": 90
+        }
+      },
+      "yield": 0.85
+    },
+    "kartofler": {
+      "unit": "kg",
+      "price": 18,
+      "conversions": {
+        "stk": {
+          "grams": 90
+        }
+      },
+      "yield": 0.9
+    },
+    "nye kartofler": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "stk": {
+          "grams": 45
+        }
+      },
+      "yield": 0.9
+    },
+    "blomkål": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "stk": {
+          "grams": 700
+        }
+      },
+      "yield": 0.65
+    },
+    "squash": {
+      "unit": "kg",
+      "price": 32,
+      "conversions": {
+        "stk": {
+          "grams": 250
+        }
+      },
+      "yield": 0.95
+    },
+    "zucchini": {
+      "unit": "kg",
+      "price": 32,
+      "conversions": {
+        "stk": {
+          "grams": 250
+        }
+      },
+      "yield": 0.95
+    },
+    "agurk": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "skive": {
+          "grams": 10
+        },
+        "stk": {
+          "grams": 350
+        }
+      },
+      "yield": 0.95
+    },
+    "agurker": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "stk": {
+          "grams": 350
+        }
+      },
+      "yield": 0.95
+    },
+    "grøn peber": {
+      "unit": "stk",
+      "price": 8,
+      "yield": 0.8
+    },
+    "rød peber": {
+      "unit": "stk",
+      "price": 8,
+      "yield": 0.8
+    },
+    "rød chili": {
+      "unit": "stk",
+      "price": 4,
+      "yield": 0.9
+    },
+    "chili": {
+      "unit": "stk",
+      "price": 4,
+      "yield": 0.9
+    },
+    "mild chili": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "spsk": {
+          "grams": 7.0
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "pantry": true
+    },
+    "jalapeño": {
+      "unit": "stk",
+      "price": 5,
+      "yield": 0.9
+    },
+    "tomater": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "stk": {
+          "grams": 80
+        }
+      },
+      "yield": 0.95
+    },
+    "modne tomater": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "stk": {
+          "grams": 100
+        }
+      },
+      "yield": 0.95
+    },
+    "roma tomater": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "stk": {
+          "grams": 80
+        }
+      },
+      "yield": 0.95
+    },
+    "san marzano-tomater": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "stk": {
+          "grams": 80
+        },
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103.0
+        },
+        "l": {
+          "grams": 1030.0
+        },
+        "liter": {
+          "grams": 1030.0
+        }
+      },
+      "yield": 0.95
+    },
+    "flåede tomater": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "dåse": {
+          "grams": 400
+        },
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103.0
+        },
+        "l": {
+          "grams": 1030.0
+        },
+        "liter": {
+          "grams": 1030.0
+        }
+      }
+    },
+    "hakkede tomater": {
+      "unit": "kg",
+      "price": 24,
+      "conversions": {
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103.0
+        },
+        "l": {
+          "grams": 1030.0
+        },
+        "liter": {
+          "grams": 1030.0
+        }
+      }
+    },
+    "passata": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103.0
+        },
+        "l": {
+          "grams": 1030.0
+        },
+        "liter": {
+          "grams": 1030.0
+        }
+      }
+    },
+    "tomatpuré": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "ml": {
+          "grams": 1.15
+        },
+        "dl": {
+          "grams": 115.0
+        },
+        "l": {
+          "grams": 1150.0
+        },
+        "liter": {
+          "grams": 1150.0
+        },
+        "spsk": {
+          "grams": 17.0
+        },
+        "tsk": {
+          "grams": 5.67
+        }
+      }
+    },
+    "tomatketchup": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "ml": {
+          "grams": 1.15
+        },
+        "dl": {
+          "grams": 115.0
+        },
+        "l": {
+          "grams": 1150.0
+        },
+        "liter": {
+          "grams": 1150.0
+        },
+        "spsk": {
+          "grams": 17.0
+        },
+        "tsk": {
+          "grams": 5.67
+        }
+      }
+    },
+    "grønne bønner": {
+      "unit": "kg",
+      "price": 55,
+      "yield": 0.9
+    },
+    "hvide bønner": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "dåse": {
+          "grams": 240
+        }
+      }
+    },
+    "ærter": {
+      "unit": "kg",
+      "price": 32,
+      "yield": 0.95
+    },
+    "spinat": {
+      "unit": "kg",
+      "price": 70,
+      "yield": 0.9
+    },
+    "romainesalat": {
+      "unit": "stk",
+      "price": 14,
+      "yield": 0.8
+    },
+    "rucola": {
+      "unit": "kg",
+      "price": 130,
+      "yield": 0.95
+    },
+    "radiser": {
+      "unit": "kg",
+      "price": 60,
+      "conversions": {
+        "stk": {
+          "grams": 15
+        },
+        "bundt": {
+          "grams": 200
+        }
+      },
+      "yield": 0.85
+    },
+    "fennikel": {
+      "unit": "stk",
+      "price": 16,
+      "yield": 0.8
+    },
+    "fennikeltoppe": {
+      "unit": "kg",
+      "price": 300.0,
+      "conversions": {
+        "bundt": {
+          "grams": 40
+        },
+        "håndfuld": {
+          "grams": 10.0
+        }
+      }
+    },
+    "persille": {
+      "unit": "kg",
+      "price": 140.0,
+      "conversions": {
+        "spsk": {
+          "grams": 4.0
+        },
+        "tsk": {
+          "grams": 1.33
+        },
+        "bundt": {
+          "grams": 100
+        },
+        "håndfuld": {
+          "grams": 25.0
+        }
+      }
+    },
+    "persillestilke": {
+      "unit": "kg",
+      "price": 140.0,
+      "conversions": {
+        "bundt": {
+          "grams": 100
+        },
+        "håndfuld": {
+          "grams": 25.0
+        },
+        "spsk": {
+          "grams": 4.0
+        },
+        "tsk": {
+          "grams": 1.33
+        }
+      }
+    },
+    "purløg": {
+      "unit": "kg",
+      "price": 280.0,
+      "conversions": {
+        "bundt": {
+          "grams": 50
+        },
+        "håndfuld": {
+          "grams": 12.5
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "dild": {
+      "unit": "kg",
+      "price": 280.0,
+      "conversions": {
+        "bundt": {
+          "grams": 50
+        },
+        "håndfuld": {
+          "grams": 12.5
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "basilikum": {
+      "unit": "kg",
+      "price": 320.0,
+      "conversions": {
+        "spsk": {
+          "grams": 4.0
+        },
+        "tsk": {
+          "grams": 1.33
+        },
+        "bundt": {
+          "grams": 50
+        },
+        "håndfuld": {
+          "grams": 12.5
+        }
+      }
+    },
+    "koriander": {
+      "unit": "kg",
+      "price": 280.0,
+      "conversions": {
+        "bundt": {
+          "grams": 50
+        },
+        "håndfuld": {
+          "grams": 12.5
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "mynte": {
+      "unit": "kg",
+      "price": 280.0,
+      "conversions": {
+        "blad": {
+          "grams": 0.5
+        },
+        "bundt": {
+          "grams": 50
+        },
+        "håndfuld": {
+          "grams": 12.5
+        },
+        "blade": {
+          "grams": 0.5
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "timian": {
+      "unit": "kg",
+      "price": 400.0,
+      "conversions": {
+        "kvist": {
+          "grams": 1.0
+        },
+        "tsk": {
+          "grams": 1.0
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "bundt": {
+          "grams": 35
+        },
+        "håndfuld": {
+          "grams": 8.8
+        },
+        "kviste": {
+          "grams": 1.0
+        }
+      }
+    },
+    "timianstilke": {
+      "unit": "kg",
+      "price": 400.0,
+      "conversions": {
+        "stilk": {
+          "grams": 1.0
+        },
+        "bundt": {
+          "grams": 35
+        },
+        "håndfuld": {
+          "grams": 8.8
+        },
+        "stilke": {
+          "grams": 1.0
+        },
+        "kvist": {
+          "grams": 1.0
+        },
+        "kviste": {
+          "grams": 1.0
+        }
+      }
+    },
+    "rosmarin": {
+      "unit": "kg",
+      "price": 350.0,
+      "conversions": {
+        "kvist": {
+          "grams": 2.0
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        },
+        "bundt": {
+          "grams": 40
+        },
+        "håndfuld": {
+          "grams": 10.0
+        },
+        "kviste": {
+          "grams": 2.0
+        }
+      }
+    },
+    "rosmarinstilke": {
+      "unit": "kg",
+      "price": 350.0,
+      "conversions": {
+        "stilk": {
+          "grams": 2.0
+        },
+        "bundt": {
+          "grams": 40
+        },
+        "håndfuld": {
+          "grams": 10.0
+        },
+        "stilke": {
+          "grams": 2.0
+        },
+        "kvist": {
+          "grams": 2.0
+        },
+        "kviste": {
+          "grams": 2.0
+        }
+      }
+    },
+    "salvieblade": {
+      "unit": "kg",
+      "price": 533.33,
+      "conversions": {
+        "stk": {
+          "grams": 0.5
+        },
+        "bundt": {
+          "grams": 30
+        },
+        "håndfuld": {
+          "grams": 7.5
+        },
+        "blad": {
+          "grams": 0.5
+        },
+        "blade": {
+          "grams": 0.5
+        }
+      }
+    },
+    "estragon": {
+      "unit": "kg",
+      "price": 457.14,
+      "conversions": {
+        "bundt": {
+          "grams": 35
+        },
+        "håndfuld": {
+          "grams": 8.8
+        },
+        "kvist": {
+          "grams": 1.0
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "kørvel": {
+      "unit": "kg",
+      "price": 457.14,
+      "conversions": {
+        "bundt": {
+          "grams": 35
+        },
+        "håndfuld": {
+          "grams": 8.8
+        },
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "krydderurtebundt": {
+      "unit": "kg",
+      "price": 320,
+      "conversions": {
+        "stk": {
+          "grams": 50
+        },
+        "bundt": {
+          "grams": 50
+        },
+        "håndfuld": {
+          "grams": 12.5
+        }
+      }
+    },
+    "skovsyre": {
+      "unit": "kg",
+      "price": 833.33,
+      "conversions": {
+        "bundt": {
+          "grams": 30
+        },
+        "håndfuld": {
+          "grams": 7.5
+        },
+        "blad": {
+          "grams": 0.3
+        },
+        "blade": {
+          "grams": 0.3
+        }
+      }
+    },
+    "citron": {
+      "unit": "stk",
+      "price": 4,
+      "conversions": {
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "yield": 0.85
+    },
+    "lime": {
+      "unit": "stk",
+      "price": 4,
+      "conversions": {
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "yield": 0.85
+    },
+    "appelsin": {
+      "unit": "stk",
+      "price": 5,
+      "yield": 0.85
+    },
+    "bergamotte": {
+      "unit": "stk",
+      "price": 12,
+      "yield": 0.8
+    },
+    "honningmelon": {
+      "unit": "kg",
+      "price": 24,
+      "conversions": {
+        "stk": {
+          "grams": 1200
+        }
+      },
+      "yield": 0.55
+    },
+    "æbler": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "stk": {
+          "grams": 150
+        }
+      },
+      "yield": 0.85
+    },
+    "græskar": {
+      "unit": "kg",
+      "price": 25,
+      "conversions": {
+        "stk": {
+          "grams": 1200
+        }
+      },
+      "yield": 0.75
+    },
+    "jordbær": {
+      "unit": "kg",
+      "price": 80,
+      "conversions": {
+        "stk": {
+          "grams": 15
+        }
+      },
+      "yield": 0.95
+    },
+    "skovjordbær": {
+      "unit": "kg",
+      "price": 250,
+      "yield": 0.95
+    },
+    "hindbær": {
+      "unit": "kg",
+      "price": 120,
+      "yield": 0.95
+    },
+    "ribs": {
+      "unit": "kg",
+      "price": 90,
+      "yield": 0.85
+    },
+    "brombær": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "stk": {
+          "grams": 7
+        }
+      },
+      "yield": 0.95
+    },
+    "svesker": {
+      "unit": "kg",
+      "price": 75,
+      "conversions": {
+        "dl": {
+          "grams": 70
+        }
+      }
+    },
+    "tørrede abrikoser": {
+      "unit": "kg",
+      "price": 90,
+      "conversions": {
+        "dl": {
+          "grams": 65
+        }
+      }
+    },
+    "rosiner": {
+      "unit": "kg",
+      "price": 45
+    },
+    "mandler": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "stk": {
+          "grams": 1.2
+        }
+      }
+    },
+    "hasselnødder": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "stk": {
+          "grams": 1.2
+        }
+      }
+    },
+    "pistacienødder": {
+      "unit": "kg",
+      "price": 220,
+      "conversions": {
+        "stk": {
+          "grams": 0.7
+        }
+      }
+    },
+    "ristede pinjekerner": {
+      "unit": "kg",
+      "price": 260
+    },
+    "sennepsfrø": {
+      "unit": "kg",
+      "price": 55
+    },
+    "nigellafrø": {
+      "unit": "kg",
+      "price": 120
+    },
+    "marcipan": {
+      "unit": "kg",
+      "price": 90
+    },
+    "kransekagemasse": {
+      "unit": "kg",
+      "price": 110
+    },
+    "hasselnøddepasta": {
+      "unit": "kg",
+      "price": 180
+    },
+    "tørrede morkler": {
+      "unit": "kg",
+      "price": 3200,
+      "conversions": {
+        "stk": {
+          "grams": 2
+        }
+      }
+    },
+    "morkelhaler": {
+      "unit": "kg",
+      "price": 1600
+    },
+    "blandede svampe": {
+      "unit": "kg",
+      "price": 90,
+      "conversions": {
+        "stk": {
+          "grams": 20
+        }
+      }
+    },
+    "brune champignoner": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "stk": {
+          "grams": 20
+        }
+      }
+    },
+    "paprika": {
+      "unit": "kg",
+      "price": 140,
+      "conversions": {
+        "spsk": {
+          "grams": 7.0
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      }
+    },
+    "røget paprika": {
+      "unit": "kg",
+      "price": 170,
+      "conversions": {
+        "spsk": {
+          "grams": 7.0
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      }
+    },
+    "mild ungarsk paprika": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "spsk": {
+          "grams": 7.0
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      }
+    },
+    "hvidløgspulver": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "spsk": {
+          "grams": 8.0
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      }
+    },
+    "chiliflager": {
+      "unit": "kg",
+      "price": 160,
+      "conversions": {
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "spidskommen": {
+      "unit": "kg",
+      "price": 140,
+      "conversions": {
+        "spsk": {
+          "grams": 6.0
+        },
+        "tsk": {
+          "grams": 2.0
+        }
+      }
+    },
+    "oregano": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "tørrede urter": {
+      "unit": "kg",
+      "price": 100,
+      "conversions": {
+        "spsk": {
+          "grams": 3.0
+        },
+        "tsk": {
+          "grams": 1.0
+        }
+      }
+    },
+    "stjerneanis": {
+      "unit": "kg",
+      "price": 300,
+      "conversions": {
+        "stk": {
+          "grams": 1
+        }
+      }
+    },
+    "kanel": {
+      "unit": "kg",
+      "price": 160
+    },
+    "korianderfrø": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "spsk": {
+          "grams": 5.0
+        },
+        "tsk": {
+          "grams": 1.67
+        }
+      }
+    },
+    "fennikelfrø": {
+      "unit": "kg",
+      "price": 130,
+      "conversions": {
+        "spsk": {
+          "grams": 5.0
+        },
+        "tsk": {
+          "grams": 1.67
+        }
+      }
+    },
+    "enebær": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "stk": {
+          "grams": 0.2
+        }
+      }
+    },
+    "laurbærblad": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "stk": {
+          "grams": 0.2
+        }
+      }
+    },
+    "blackened spice": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      }
+    },
+    "Pepper Rdx": {
+      "unit": "kg",
+      "price": 350
+    },
+    "lys miso": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "ml": {
+          "grams": 1.15
+        },
+        "dl": {
+          "grams": 115.0
+        },
+        "l": {
+          "grams": 1150.0
+        },
+        "liter": {
+          "grams": 1150.0
+        },
+        "spsk": {
+          "grams": 18.0
+        },
+        "tsk": {
+          "grams": 6.0
+        }
+      }
+    },
+    "yondu": {
+      "unit": "liter",
+      "price": 180,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "sojasauce": {
+      "unit": "liter",
+      "price": 70,
+      "conversions": {
+        "g": {
+          "milliliters": 0.98
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "kombu": {
+      "unit": "kg",
+      "price": 500,
+      "conversions": {
+        "cm": {
+          "grams": 1.5
+        }
+      }
+    },
+    "ansjoser": {
+      "unit": "kg",
+      "price": 220,
+      "conversions": {
+        "stk": {
+          "grams": 5
+        }
+      }
+    },
+    "ansjosfileter": {
+      "unit": "kg",
+      "price": 220,
+      "conversions": {
+        "stk": {
+          "grams": 5
+        }
+      }
+    },
+    "kapers": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "spsk": {
+          "grams": 10.0
+        },
+        "tsk": {
+          "grams": 3.33
+        }
+      }
+    },
+    "sennep": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "ml": {
+          "grams": 1.05
+        },
+        "dl": {
+          "grams": 105.0
+        },
+        "l": {
+          "grams": 1050.0
+        },
+        "liter": {
+          "grams": 1050.0
+        },
+        "spsk": {
+          "grams": 15.0
+        },
+        "tsk": {
+          "grams": 5.0
+        }
+      }
+    },
+    "amerikansk gul sennep": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "ml": {
+          "grams": 1.05
+        },
+        "dl": {
+          "grams": 105.0
+        },
+        "l": {
+          "grams": 1050.0
+        },
+        "liter": {
+          "grams": 1050.0
+        },
+        "spsk": {
+          "grams": 15.0
+        },
+        "tsk": {
+          "grams": 5.0
+        }
+      }
+    },
+    "dijonsennep": {
+      "unit": "kg",
+      "price": 75,
+      "conversions": {
+        "ml": {
+          "grams": 1.05
+        },
+        "dl": {
+          "grams": 105.0
+        },
+        "l": {
+          "grams": 1050.0
+        },
+        "liter": {
+          "grams": 1050.0
+        },
+        "spsk": {
+          "grams": 15.0
+        },
+        "tsk": {
+          "grams": 5.0
+        }
+      }
+    },
+    "mayonnaise": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "ml": {
+          "grams": 0.95
+        },
+        "dl": {
+          "grams": 95.0
+        },
+        "l": {
+          "grams": 950.0
+        },
+        "liter": {
+          "grams": 950.0
+        },
+        "spsk": {
+          "grams": 14.0
+        },
+        "tsk": {
+          "grams": 4.67
+        }
+      }
+    },
+    "Tabasco": {
+      "unit": "liter",
+      "price": 900,
+      "conversions": {
+        "dråbe": {
+          "ml": 0.05
+        },
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "worcestershiresauce": {
+      "unit": "liter",
+      "price": 180,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "bbq sauce": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "ml": {
+          "grams": 1.1
+        },
+        "dl": {
+          "grams": 110.0
+        },
+        "l": {
+          "grams": 1100.0
+        },
+        "liter": {
+          "grams": 1100.0
+        },
+        "spsk": {
+          "grams": 16.0
+        },
+        "tsk": {
+          "grams": 5.33
+        }
+      }
+    },
+    "saltsyltet citronskal": {
+      "unit": "kg",
+      "price": 90,
+      "conversions": {
+        "spsk": {
+          "grams": 15.0
+        },
+        "tsk": {
+          "grams": 5.0
+        }
+      }
+    },
+    "citronsaft": {
+      "unit": "liter",
+      "price": 80,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "citronskal": {
+      "unit": "kg",
+      "price": 80,
+      "conversions": {
+        "strimmel": {
+          "grams": 2
+        },
+        "stk": {
+          "grams": 6
+        }
+      }
+    },
+    "limesaft": {
+      "unit": "liter",
+      "price": 90,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "limeskal": {
+      "unit": "kg",
+      "price": 90
+    },
+    "appelsinsaft": {
+      "unit": "liter",
+      "price": 35,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "appelsinskal": {
+      "unit": "kg",
+      "price": 70
+    },
+    "bergamottesaft": {
+      "unit": "liter",
+      "price": 180,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "yuzujuice": {
+      "unit": "liter",
+      "price": 260,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "yuzusaft": {
+      "unit": "liter",
+      "price": 260,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "æbleeddike": {
+      "unit": "liter",
+      "price": 45,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "hvid eddike": {
+      "unit": "liter",
+      "price": 20,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "rødvinseddike": {
+      "unit": "liter",
+      "price": 55,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "sherryeddike": {
+      "unit": "liter",
+      "price": 85,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "sushieddike": {
+      "unit": "liter",
+      "price": 55,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "balsamico": {
+      "unit": "liter",
+      "price": 110,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "bearnaiseessens": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "lys fond": {
+      "unit": "liter",
+      "price": 35,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "kalvefond": {
+      "unit": "liter",
+      "price": 75,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "oksefond": {
+      "unit": "liter",
+      "price": 70,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "oksebouillon": {
+      "unit": "liter",
+      "price": 25,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "grøntsagsbouillon": {
+      "unit": "liter",
+      "price": 22,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "oksejus": {
+      "unit": "liter",
+      "price": 160,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "demi-glace": {
+      "unit": "liter",
+      "price": 180,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "hønsefond": {
+      "unit": "liter",
+      "price": 45,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "kyllingefond": {
+      "unit": "liter",
+      "price": 45,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "fiskefond": {
+      "unit": "liter",
+      "price": 60,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "skaldyrsfond": {
+      "unit": "liter",
+      "price": 70,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "skaldyrsskaller": {
+      "unit": "kg",
+      "price": 45
+    },
+    "morkeludblødningsvæske": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "kogelage": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "vinrester": {
+      "unit": "liter",
+      "price": 45,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "æblemost": {
+      "unit": "liter",
+      "price": 25,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "hakket oksekød": {
+      "unit": "kg",
+      "price": 95,
+      "yield": 0.98
+    },
+    "hakket kød": {
+      "unit": "kg",
+      "price": 85,
+      "yield": 0.98
+    },
+    "tykkam": {
+      "unit": "kg",
+      "price": 120,
+      "yield": 0.9
+    },
+    "kogt tykkam": {
+      "unit": "kg",
+      "price": 120,
+      "yield": 0.95
+    },
+    "okseinderlår": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.95
+    },
+    "kalveinderlår": {
+      "unit": "kg",
+      "price": 240,
+      "yield": 0.95
+    },
+    "oksehale": {
+      "unit": "kg",
+      "price": 85,
+      "conversions": {
+        "stk": {
+          "grams": 1500
+        }
+      },
+      "yield": 0.55
+    },
+    "nakkefilet": {
+      "unit": "kg",
+      "price": 75,
+      "yield": 0.9
+    },
+    "svinebov": {
+      "unit": "kg",
+      "price": 70,
+      "yield": 0.85
+    },
+    "vildsvinekød": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.9
+    },
+    "hakket vildsvinekød": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.98
+    },
+    "vildsvinefars": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.98
+    },
+    "kylling": {
+      "unit": "kg",
+      "price": 55,
+      "yield": 0.65
+    },
+    "kyllingekød": {
+      "unit": "kg",
+      "price": 75,
+      "yield": 0.95
+    },
+    "kyllingeoverlår": {
+      "unit": "kg",
+      "price": 65,
+      "conversions": {
+        "stk": {
+          "grams": 175
+        }
+      },
+      "yield": 0.75
+    },
+    "kyllingebryst": {
+      "unit": "kg",
+      "price": 95,
+      "yield": 0.95
+    },
+    "hønsebryst": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "stk": {
+          "grams": 160
+        }
+      },
+      "yield": 0.95
+    },
+    "fasanbryster": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "stk": {
+          "grams": 150
+        }
+      },
+      "yield": 0.9
+    },
+    "and": {
+      "unit": "kg",
+      "price": 85,
+      "yield": 0.55
+    },
+    "ande-foie gras": {
+      "unit": "kg",
+      "price": 900
+    },
+    "guanciale": {
+      "unit": "kg",
+      "price": 260
+    },
+    "guanciale eller spæk": {
+      "unit": "kg",
+      "price": 180
+    },
+    "chorizo": {
+      "unit": "kg",
+      "price": 130
+    },
+    "salsiccia": {
+      "unit": "kg",
+      "price": 140
+    },
+    "mortadella": {
+      "unit": "kg",
+      "price": 160
+    },
+    "parmaskinke": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "skive": {
+          "grams": 15
+        }
+      }
+    },
+    "prosciutto": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "skive": {
+          "grams": 15
+        }
+      }
+    },
+    "fedtnet": {
+      "unit": "kg",
+      "price": 70
+    },
+    "torskefilet": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.98
+    },
+    "tun i olie": {
+      "unit": "kg",
+      "price": 140
+    },
+    "jomfruhummerhaler": {
+      "unit": "kg",
+      "price": 520,
+      "conversions": {
+        "stk": {
+          "grams": 20
+        }
+      },
+      "yield": 0.9
+    },
+    "10-armede blæksprutter": {
+      "unit": "kg",
+      "price": 140,
+      "conversions": {
+        "stk": {
+          "grams": 500
+        }
+      },
+      "yield": 0.55
+    },
+    "hvidvin": {
+      "unit": "liter",
+      "price": 80,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "rødvin": {
+      "unit": "liter",
+      "price": 90,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "tør sherry": {
+      "unit": "liter",
+      "price": 110,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "madeira": {
+      "unit": "liter",
+      "price": 140,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "whiskey": {
+      "unit": "liter",
+      "price": 280,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "cognac": {
+      "unit": "liter",
+      "price": 320,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "armagnac": {
+      "unit": "liter",
+      "price": 360,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "vodka": {
+      "unit": "liter",
+      "price": 180,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "gin": {
+      "unit": "liter",
+      "price": 230,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "mezcal": {
+      "unit": "liter",
+      "price": 420,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "lagret rom": {
+      "unit": "liter",
+      "price": 300,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "mørk rom": {
+      "unit": "liter",
+      "price": 240,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "pineapple rom": {
+      "unit": "liter",
+      "price": 240,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "Cointreau": {
+      "unit": "liter",
+      "price": 280,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "grøn Chartreuse": {
+      "unit": "liter",
+      "price": 650,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "maraschino likør": {
+      "unit": "liter",
+      "price": 260,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "brombærlikør": {
+      "unit": "liter",
+      "price": 220,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "yuzu likør": {
+      "unit": "liter",
+      "price": 300,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "Angostura bitters": {
+      "unit": "liter",
+      "price": 1200,
+      "conversions": {
+        "dråbe": {
+          "ml": 0.05
+        },
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "champagne": {
+      "unit": "liter",
+      "price": 240,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "danskvand": {
+      "unit": "liter",
+      "price": 8,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "sukkersirup": {
+      "unit": "liter",
+      "price": 25,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "sirup": {
+      "unit": "liter",
+      "price": 25,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "agavesirup": {
+      "unit": "liter",
+      "price": 85,
+      "conversions": {
+        "g": {
+          "milliliters": 0.74
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "ingefærsirup": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "grapefrugtjuice": {
+      "unit": "liter",
+      "price": 35,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      }
+    },
+    "grapefrugtskal": {
+      "unit": "kg",
+      "price": 70
+    },
+    "cocktailkirsebær": {
+      "unit": "stk",
+      "price": 3
+    }
+  },
+  "unitAliases": {
+    "g": "kg",
+    "kg": "kg",
+    "ml": "liter",
+    "cl": "liter",
+    "dl": "liter",
+    "liter": "liter",
+    "l": "liter",
+    "stk": "stk",
+    "bundt": "bundt",
+    "håndfuld": "bundt",
+    "spsk": "liter",
+    "tsk": "liter",
+    "fed": "fed",
+    "stilk": "stilk",
+    "kviste": "kvist",
+    "kvist": "kvist",
+    "stilke": "stilk",
+    "skiver": "skive",
+    "skive": "skive",
+    "dåse": "dåse",
+    "portion": "portion",
+    "lille bundt": "bundt",
+    "stort bundt": "bundt",
+    "blade": "blad",
+    "blad": "blad",
+    "strimmel": "strimmel",
+    "nip": "nip",
+    "små nip": "nip",
+    "knivspids": "nip",
+    "dråber": "dråbe",
+    "dråbe": "dråbe",
+    "cm": "cm"
+  }
+}
