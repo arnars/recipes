@@ -62,6 +62,7 @@ Vælg præcis én `category` fra denne kontrollerede liste:
 - saucer og dressinger
 - desserter
 - kager og bagværk
+- cocktails og drinks
 - drikke
 
 `category` skal være opskriftens primære placering i en kogebog. Vælg den kategori, hvor brugeren mest sandsynligt ville lede efter opskriften.
@@ -81,7 +82,8 @@ Kategori-regler:
 - Brug `kød`, `fisk og skaldyr` eller `grønt` efter hovedråvaren, når retten primært er bygget op omkring én hovedråvare.
 - Brug `desserter` til desserter, cremer, is, panna cotta, trifli og lignende.
 - Brug `kager og bagværk` til sødt bagværk, tærter, kager, småkager og viennoiseri.
-- Brug `drikke` til cocktails, saft, likører, varme drikke og andre drikkeopskrifter.
+- Brug `cocktails og drinks` til cocktails, long drinks, sours, highballs, punches og andre blandede drinks med eller uden alkohol.
+- Brug `drikke` til saft, likører, sirupper, varme drikke og andre drikkeopskrifter, der ikke primært er cocktails eller drinks.
 
 Kategori-eksempler:
 
@@ -100,7 +102,8 @@ Kategori-eksempler:
 - Grillet spidskål med miso → grønt
 - Panna cotta → desserter
 - Jordbærtærte → kager og bagværk
-- Shiso gin sour → drikke
+- Shiso gin sour → cocktails og drinks
+- Hyldeblomstsaft → drikke
 
 Vælg 3-6 `tags`.
 
