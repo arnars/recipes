@@ -2581,6 +2581,11 @@
       "price": 240,
       "yield": 0.95
     },
+    "nyretap": {
+      "unit": "kg",
+      "price": 220,
+      "yield": 0.9
+    },
     "oksehale": {
       "unit": "kg",
       "price": 85,
@@ -3173,6 +3178,21 @@
         },
         "tsk": {
           "grams": 2
+        }
+      }
+    },
+    "havremælk": {
+      "unit": "liter",
+      "price": 22,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
         }
       }
     }
