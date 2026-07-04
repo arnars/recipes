@@ -2,7 +2,7 @@
   "version": 1,
   "currency": "DKK",
   "profile": "normal",
-  "updated": "2026-07-02",
+  "updated": "2026-07-04",
   "assumptions": {
     "basis": "Antagede danske normalpriser til råvareforbrug, ikke indkøbspris pr. pakke.",
     "mode": "consumed",
@@ -2363,14 +2363,17 @@
       }
     },
     "agurk": {
-      "unit": "kg",
-      "price": 28,
+      "unit": "stk",
+      "price": 22,
       "conversions": {
         "skive": {
-          "grams": 10
+          "units": 0.04
         },
-        "stk": {
-          "grams": 350
+        "g": {
+          "units": 0.004
+        },
+        "kg": {
+          "units": 4
         }
       },
       "yield": 0.95,
@@ -2391,6 +2394,10 @@
         "g": {
           "singular": "g",
           "plural": "g"
+        },
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
         }
       }
     },
@@ -7704,6 +7711,47 @@
         }
       }
     },
+    "shisolikør": {
+      "unit": "liter",
+      "price": 250,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        },
+        "ml": {
+          "milliliters": 1.0
+        }
+      },
+      "preferredUnit": "ml",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
     "mezcal": {
       "unit": "liter",
       "price": 420,
@@ -8515,6 +8563,714 @@
         "ml": {
           "singular": "ml",
           "plural": "ml"
+        }
+      }
+    },
+    "nduja": {
+      "unit": "kg",
+      "price": 260,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "porrer": {
+      "unit": "kg",
+      "price": 32,
+      "conversions": {
+        "stk": {
+          "grams": 120
+        }
+      },
+      "yield": 0.78,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "cornichoner": {
+      "unit": "kg",
+      "price": 90,
+      "conversions": {
+        "spsk": {
+          "grams": 12
+        },
+        "tsk": {
+          "grams": 4
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "hvidvinseddike": {
+      "unit": "liter",
+      "price": 55,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "muskatnød": {
+      "unit": "kg",
+      "price": 900,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2.2
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "butternutgræskar": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "stk": {
+          "grams": 900
+        }
+      },
+      "yield": 0.72,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "salvie": {
+      "unit": "kg",
+      "price": 400,
+      "conversions": {
+        "bundt": {
+          "grams": 35
+        },
+        "håndfuld": {
+          "grams": 8.8
+        },
+        "spsk": {
+          "grams": 3
+        },
+        "tsk": {
+          "grams": 1
+        }
+      },
+      "preferredUnit": "bundt",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "bundt": {
+          "singular": "bundt",
+          "plural": "bundt"
+        },
+        "håndfuld": {
+          "singular": "håndfuld",
+          "plural": "håndfulde"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "ingefær": {
+      "unit": "kg",
+      "price": 65,
+      "conversions": {
+        "spsk": {
+          "grams": 6
+        },
+        "tsk": {
+          "grams": 2
+        }
+      },
+      "yield": 0.85,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "sichuanpeber": {
+      "unit": "kg",
+      "price": 650,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 6
+        },
+        "tsk": {
+          "grams": 2
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "gochujang": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "spsk": {
+          "grams": 18
+        },
+        "tsk": {
+          "grams": 6
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "lys soja": {
+      "unit": "liter",
+      "price": 65,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "nudler": {
+      "unit": "kg",
+      "price": 45,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ribbensteg uden ben": {
+      "unit": "kg",
+      "price": 95,
+      "yield": 0.82,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hvid peber": {
+      "unit": "kg",
+      "price": 260,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "sesamolie": {
+      "unit": "liter",
+      "price": 120,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "riseddike": {
+      "unit": "liter",
+      "price": 50,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "tahin": {
+      "unit": "kg",
+      "price": 85,
+      "conversions": {
+        "spsk": {
+          "grams": 15
+        },
+        "tsk": {
+          "grams": 5
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "sesamfrø": {
+      "unit": "kg",
+      "price": 75,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 9
+        },
+        "tsk": {
+          "grams": 3
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "spidskål": {
+      "unit": "kg",
+      "price": 24,
+      "conversions": {
+        "stk": {
+          "grams": 900
+        }
+      },
+      "yield": 0.85,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "syltet ingefær": {
+      "unit": "kg",
+      "price": 120,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "chiliolie": {
+      "unit": "liter",
+      "price": 120,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1.0
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "feta": {
+      "unit": "kg",
+      "price": 110,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "Aleppo peber": {
+      "unit": "kg",
+      "price": 450,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "oliven": {
+      "unit": "kg",
+      "price": 95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "boquerones": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "stk": {
+          "grams": 5
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
         }
       }
     }
