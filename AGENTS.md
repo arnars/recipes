@@ -76,7 +76,10 @@ When creating or changing recipes, keep shared ingredient data in sync:
 - Check `Data/aliases.json` for new ingredient names that are merely variants of existing names. Add aliases only when they improve real normalization.
 - Check `Data/shoppingAliases.json` when the shopping item should be consolidated differently from the recipe wording, for example citrus juice or zest to whole citrus.
 - Check `Data/prices.json` for new ingredients, missing prices, missing unit aliases, needed unit conversions, and meaningful yield values.
+- Check `Data/ingredientClassifications.json` for new canonical ingredients that should affect ingredient tags, allergens, sensitivities, or diets.
 - Add conservative assumed prices, conversions and `yield` only where they are needed for costing or shopping behavior.
+- Keep classification data separate from pricing data: do not add allergen, diet, or ingredient-tag metadata to `Data/prices.json`.
+- Update `Data/ingredientClassifications.json` conservatively and prefer primary ingredients over broad or highly processed composite products.
 - Do not add noisy aliases or overly broad normalizations that erase useful culinary distinctions.
 - Preserve the existing price model: item prices have a base `unit`, optional `conversions`, and optional `yield` for usable/spiselige andel after ordinary trim. `yield` is applied after unit conversion.
 

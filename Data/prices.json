@@ -896,11 +896,20 @@
     "brødkrumme": {
       "unit": "kg",
       "price": 25,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        }
+      },
       "preferredUnit": "kg",
       "displayUnits": {
         "kg": {
           "singular": "kg",
           "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
         },
         "g": {
           "singular": "g",
@@ -1120,11 +1129,20 @@
     "smør": {
       "unit": "kg",
       "price": 85,
+      "conversions": {
+        "spsk": {
+          "grams": 14
+        }
+      },
       "preferredUnit": "kg",
       "displayUnits": {
         "kg": {
           "singular": "kg",
           "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
         },
         "g": {
           "singular": "g",
@@ -7198,11 +7216,20 @@
     "salsiccia": {
       "unit": "kg",
       "price": 140,
+      "conversions": {
+        "stk": {
+          "grams": 100
+        }
+      },
       "preferredUnit": "kg",
       "displayUnits": {
         "kg": {
           "singular": "kg",
           "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
         },
         "g": {
           "singular": "g",

@@ -27,11 +27,13 @@ Hvis tiden er fast, skal `min` og `max` være samme tal.
 Hvis opskriften naturligt har et interval, skal intervallet bevares.
 
 Rund til praktiske intervaller:
+
 - under 1 time: nærmeste 10 minutter
 - 1-12 timer: nærmeste 30 minutter
 - over 12 timer: nærmeste halve eller hele døgn, angivet i minutter
 
 Eksempler:
+
 - 20 minutter → `min: 20`, `max: 20`
 - 1 time → `min: 60`, `max: 60`
 - 2-5 timer → `min: 120`, `max: 300`
@@ -124,7 +126,6 @@ Vælg tags fra disse facetter, men udfyld ikke nødvendigvis alle:
 - hovedråvare, fx mortadella, burrata, pistacie, tomat, svampe, torsk, oksekød, linser, jordbær
 - teknik, fx langtidshævet, koldhævet, braiseret, grillet, friteret, fermenteret, syltet, emulgeret, sous-vide
 - vigtigt udstyr, fx pizzaovn, grill, pastamaskine, sous-vide, iSi, trykkoger
-- kost/præference, fx vegetarisk, vegansk, glutenfri, laktosefri, uden alkohol, uden svinekød
 
 Tag-regler:
 

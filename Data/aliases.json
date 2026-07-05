@@ -1,21 +1,43 @@
 {
   "ingredients": {
-    "onglet": "nyretap",
-    "nyretapper": "nyretap",
-    "ekstra jomfruolivenolie": "olivenolie",
-    "tipo 00 mel": "tipo 00-mel",
-    "basilikumblade": "basilikum",
-    "pecorino romano": "pecorino",
-    "iskoldt vand": "koldt vand",
-    "koldt vand": "koldt vand",
-    "lunkent vand": "lunkent vand",
-    "havsalt": "salt",
-    "flagesalt": "salt",
-    "fint salt": "salt",
-    "friskkværnet sort peber": "sort peber",
-    "friskkværnet peber": "sort peber",
-    "sorte peberkorn": "sort peber",
-    "citronskive": "citron"
+    "nyretap": [
+      "onglet",
+      "nyretapper"
+    ],
+    "olivenolie": [
+      "ekstra jomfruolivenolie"
+    ],
+    "tipo 00-mel": [
+      "tipo 00 mel"
+    ],
+    "basilikum": [
+      "basilikumblade"
+    ],
+    "pecorino": [
+      "pecorino romano"
+    ],
+    "koldt vand": [
+      "iskoldt vand"
+    ],
+    "salt": [
+      "havsalt",
+      "flagesalt",
+      "fint salt"
+    ],
+    "sort peber": [
+      "friskkværnet sort peber",
+      "friskkværnet peber",
+      "sorte peberkorn"
+    ],
+    "citron": [
+      "citronskive"
+    ],
+    "æggeblomme": [
+      "æggeblommer"
+    ],
+    "æggehvide": [
+      "æggehvider"
+    ]
   },
   "cookware": {
     "pizzaovnen": "pizzaovn"

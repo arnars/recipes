@@ -1,0 +1,985 @@
+{
+  "ingredientTags": {
+    "animalProduct": {
+      "label": "Animalsk produkt",
+      "description": "Ingredienser fra dyr, inkl. kød, fisk, skaldyr, mejeri, æg, honning og gelatine.",
+      "ingredients": [
+        "10-armede blæksprutter",
+        "and",
+        "ansjos",
+        "ansjoser",
+        "ansjosfileter",
+        "bacon",
+        "blæksprutte",
+        "boquerones",
+        "brunet smør",
+        "burrata",
+        "creme fraiche",
+        "creme fraiche 38%",
+        "fasanbryster",
+        "feta",
+        "fiskesauce",
+        "fløde",
+        "frisk mozzarella",
+        "gelatine",
+        "guanciale",
+        "hakket kød",
+        "hakket oksekød",
+        "hakket vildsvinekød",
+        "honning",
+        "hummer",
+        "husblas",
+        "hønsebryst",
+        "hårdkogt æg",
+        "jomfruhummer",
+        "jomfruhummerhaler",
+        "kalkun",
+        "kalvekød",
+        "kammusling",
+        "klaret smør",
+        "krabbe",
+        "krebs",
+        "kylling",
+        "kyllingebryst",
+        "kyllingekød",
+        "kyllingeoverlår",
+        "laks",
+        "lammekød",
+        "makrel",
+        "mild gedeost",
+        "mortadella",
+        "mozzarella",
+        "musling",
+        "mælk",
+        "nakkefilet",
+        "nduja",
+        "oksekød",
+        "ost",
+        "parmaskinke",
+        "parmesan",
+        "pasteuriseret æggehvide",
+        "pecorino",
+        "piskefløde",
+        "prosciutto",
+        "provolone",
+        "reje",
+        "ribbensteg uden ben",
+        "ricotta",
+        "salsiccia",
+        "sardin",
+        "sild",
+        "skaldyrsskaller",
+        "skinke",
+        "skyr",
+        "smør",
+        "stracchino",
+        "svinebov",
+        "svinekød",
+        "sødmælk",
+        "torsk",
+        "torskefilet",
+        "tun",
+        "tun i olie",
+        "vildsvinefars",
+        "vildsvinekød",
+        "yoghurt",
+        "æg",
+        "æggeblomme",
+        "æggehvide",
+        "østers",
+        "spegepølse"
+      ],
+      "notes": "Bruges bredt til vegetarisk og vegansk klassifikation."
+    },
+    "meat": {
+      "label": "Kød",
+      "description": "Kød fra pattedyr og enkle kødprodukter.",
+      "ingredients": [
+        "bacon",
+        "chorizo",
+        "guanciale",
+        "hakket kød",
+        "hakket oksekød",
+        "hakket vildsvinekød",
+        "kalvekød",
+        "lammekød",
+        "mortadella",
+        "nakkefilet",
+        "nduja",
+        "oksekød",
+        "pancetta",
+        "parmaskinke",
+        "prosciutto",
+        "ribbensteg uden ben",
+        "salami",
+        "salsiccia",
+        "skinke",
+        "svinebov",
+        "svinekød",
+        "vildsvinefars",
+        "vildsvinekød",
+        "spegepølse"
+      ]
+    },
+    "poultry": {
+      "label": "Fjerkræ",
+      "description": "Kød og fedt fra fjerkræ.",
+      "ingredients": [
+        "and",
+        "andefedt",
+        "fasanbryster",
+        "høne",
+        "hønsebryst",
+        "kalkun",
+        "kylling",
+        "kyllingebryst",
+        "kyllingekød",
+        "kyllingeoverlår"
+      ]
+    },
+    "fish": {
+      "label": "Fisk",
+      "description": "Fisk og enkle ingredienser fremstillet af fisk.",
+      "ingredients": [
+        "ansjos",
+        "ansjoser",
+        "ansjosfileter",
+        "boquerones",
+        "fisk",
+        "fiskesauce",
+        "laks",
+        "makrel",
+        "rødfisk",
+        "sardin",
+        "sej",
+        "sild",
+        "torsk",
+        "torskefilet",
+        "tun",
+        "tun i olie",
+        "ørred"
+      ],
+      "notes": "Fiskesauce medtages som selvstændig basisingrediens. Sammensatte saucer bør ikke automatisk tagges her."
+    },
+    "crustacean": {
+      "label": "Krebsdyr",
+      "description": "Skaldyr som rejer, krabber, hummere og krebs.",
+      "ingredients": [
+        "hummer",
+        "jomfruhummer",
+        "jomfruhummerhaler",
+        "krabbe",
+        "krebs",
+        "reje",
+        "scampi",
+        "skaldyrsskaller"
+      ]
+    },
+    "mollusc": {
+      "label": "Bløddyr",
+      "description": "Muslinger, østers, blæksprutter og beslægtede bløddyr.",
+      "ingredients": [
+        "10-armede blæksprutter",
+        "blæksprutte",
+        "blåmusling",
+        "calamari",
+        "hjertemusling",
+        "kammusling",
+        "musling",
+        "snegl",
+        "østers"
+      ]
+    },
+    "seafood": {
+      "label": "Fisk og skaldyr",
+      "description": "Samlet tag for fisk, krebsdyr og bløddyr.",
+      "ingredients": [
+        "10-armede blæksprutter",
+        "ansjos",
+        "ansjoser",
+        "ansjosfileter",
+        "blæksprutte",
+        "boquerones",
+        "fisk",
+        "fiskesauce",
+        "hummer",
+        "jomfruhummer",
+        "jomfruhummerhaler",
+        "kammusling",
+        "krabbe",
+        "krebs",
+        "laks",
+        "makrel",
+        "musling",
+        "reje",
+        "sardin",
+        "sild",
+        "skaldyrsskaller",
+        "torsk",
+        "torskefilet",
+        "tun",
+        "tun i olie",
+        "østers"
+      ]
+    },
+    "dairy": {
+      "label": "Mælkeprodukt",
+      "description": "Mælk og produkter fremstillet af mælk.",
+      "ingredients": [
+        "brunet smør",
+        "burrata",
+        "creme fraiche",
+        "creme fraiche 38%",
+        "feta",
+        "fløde",
+        "flødeost",
+        "frisk mozzarella",
+        "græsk yoghurt",
+        "klaret smør",
+        "kærnemælk",
+        "letmælk",
+        "madlavningsfløde",
+        "mascarpone",
+        "mild gedeost",
+        "mozzarella",
+        "mælk",
+        "mælkepulver",
+        "ost",
+        "parmesan",
+        "pecorino",
+        "piskefløde",
+        "provolone",
+        "ricotta",
+        "skummetmælk",
+        "skyr",
+        "smør",
+        "stracchino",
+        "sødmælk",
+        "valle",
+        "yoghurt"
+      ],
+      "notes": "Dækker mælkeprotein. Laktose vurderes med separat tag."
+    },
+    "lactoseContainingDairy": {
+      "label": "Laktoseholdigt mælkeprodukt",
+      "description": "Mælkeprodukter der typisk indeholder relevant laktose.",
+      "ingredients": [
+        "creme fraiche",
+        "creme fraiche 38%",
+        "fløde",
+        "flødeost",
+        "græsk yoghurt",
+        "kærnemælk",
+        "letmælk",
+        "madlavningsfløde",
+        "mascarpone",
+        "mælk",
+        "mælkepulver",
+        "piskefløde",
+        "ricotta",
+        "skummetmælk",
+        "skyr",
+        "sødmælk",
+        "valle",
+        "yoghurt"
+      ],
+      "notes": "Smør og faste lagrede oste er ikke medtaget som standard, da laktoseindholdet ofte er lavt. Produkt kan variere."
+    },
+    "egg": {
+      "label": "Æg",
+      "description": "Æg og ægdele.",
+      "ingredients": [
+        "hårdkogt æg",
+        "pasteuriseret æggehvide",
+        "æg",
+        "æggeblomme",
+        "æggehvide"
+      ]
+    },
+    "honey": {
+      "label": "Honning",
+      "description": "Honning som animalsk sødemiddel.",
+      "ingredients": [
+        "honning"
+      ]
+    },
+    "gelatin": {
+      "label": "Gelatine",
+      "description": "Animalsk gelatine.",
+      "ingredients": [
+        "gelatine",
+        "husblas"
+      ],
+      "notes": "Agar og pektin bør ikke tagges som gelatine."
+    },
+    "glutenGrain": {
+      "label": "Glutenholdig kornsort",
+      "description": "Kornsorter der naturligt indeholder gluten.",
+      "ingredients": [
+        "brød",
+        "brødkrumme",
+        "brødrester",
+        "bulgur",
+        "byg",
+        "bygmalt",
+        "conchiglioni",
+        "couscous",
+        "crumpets",
+        "daggammelt brød",
+        "durumhvede",
+        "emmer",
+        "enkorn",
+        "fuldkornshvedemel",
+        "fuldkornsmel",
+        "grahamsmel",
+        "hvede",
+        "hvedemel",
+        "malt",
+        "maltmel",
+        "manitoba/tipo 00-mel",
+        "nokedli",
+        "nudler",
+        "panko",
+        "pappardelle",
+        "pasta",
+        "penne",
+        "perlebyg",
+        "rasp",
+        "rug",
+        "rugmel",
+        "seitan",
+        "spaghetti",
+        "spelt",
+        "spätzle",
+        "surdej",
+        "surdejsbrød",
+        "t70 hvedemel",
+        "tipo 00-mel"
+      ],
+      "notes": "Havre håndteres separat, da ren certificeret havre er en særskilt produkttype."
+    },
+    "wheat": {
+      "label": "Hvede",
+      "description": "Hvede og hvedebaserede råvarer.",
+      "ingredients": [
+        "brød",
+        "brødkrumme",
+        "brødrester",
+        "bulgur",
+        "conchiglioni",
+        "couscous",
+        "crumpets",
+        "daggammelt brød",
+        "durumhvede",
+        "emmer",
+        "enkorn",
+        "fuldkornshvedemel",
+        "fuldkornsmel",
+        "grahamsmel",
+        "hvede",
+        "hvedemel",
+        "manitoba/tipo 00-mel",
+        "nokedli",
+        "nudel",
+        "nudler",
+        "panko",
+        "pappardelle",
+        "pasta",
+        "penne",
+        "rasp",
+        "seitan",
+        "semola",
+        "spaghetti",
+        "spelt",
+        "spätzle",
+        "surdej",
+        "surdejsbrød",
+        "t70 hvedemel",
+        "tipo 00-mel"
+      ]
+    },
+    "rye": {
+      "label": "Rug",
+      "description": "Rug og rugbaserede råvarer.",
+      "ingredients": [
+        "knækkede rugkerner",
+        "rug",
+        "rugbrød",
+        "rugmel"
+      ]
+    },
+    "barley": {
+      "label": "Byg",
+      "description": "Byg og bygafledte råvarer.",
+      "ingredients": [
+        "byg",
+        "bygmalt",
+        "malt",
+        "malteddike",
+        "maltmel",
+        "perlebyg"
+      ]
+    },
+    "oat": {
+      "label": "Havre",
+      "description": "Havre og havrebaserede råvarer.",
+      "ingredients": [
+        "havre",
+        "havredrik",
+        "havregryn",
+        "havremel"
+      ],
+      "notes": "Havre er kun glutenfri hvis produktet er certificeret glutenfrit."
+    },
+    "nut": {
+      "label": "Nød",
+      "description": "Trænødder i kulinarisk og allergenmæssig forstand.",
+      "ingredients": [
+        "cashewnød",
+        "hasselnød",
+        "hasselnøddepasta",
+        "hasselnødder",
+        "kransekagemasse",
+        "macadamianød",
+        "mandel",
+        "mandelmel",
+        "mandler",
+        "marcipan",
+        "paranød",
+        "pekannød",
+        "pistacie",
+        "pistacienødder",
+        "valnød"
+      ],
+      "notes": "Jordnød er ikke medtaget; den håndteres separat."
+    },
+    "peanut": {
+      "label": "Jordnød",
+      "description": "Jordnød og enkle jordnøddeprodukter.",
+      "ingredients": [
+        "jordnød",
+        "jordnøddeolie",
+        "peanutbutter"
+      ]
+    },
+    "seed": {
+      "label": "Frø og kerner",
+      "description": "Spiselige frø og kerner, adskilt fra nødder og jordnødder.",
+      "ingredients": [
+        "birkes",
+        "chiafrø",
+        "græskarkerne",
+        "hørfrø",
+        "nigellafrø",
+        "pinjekerne",
+        "sesamfrø",
+        "solsikkekerne",
+        "solsikkekerner",
+        "tahin"
+      ],
+      "notes": "Pinjekerne er placeret her kulinarisk; allergenmæssig vurdering kan være personafhængig."
+    },
+    "sesame": {
+      "label": "Sesam",
+      "description": "Sesamfrø og enkle sesamprodukter.",
+      "ingredients": [
+        "sesamfrø",
+        "sesamolie",
+        "tahin"
+      ]
+    },
+    "legume": {
+      "label": "Bælgfrugt",
+      "description": "Bønner, linser, ærter og beslægtede bælgfrugter.",
+      "ingredients": [
+        "bønne",
+        "edamame",
+        "flækært",
+        "grøn linse",
+        "grønne bønner",
+        "hvid bønne",
+        "hvide bønner",
+        "jordnød",
+        "kidneybønne",
+        "kikært",
+        "linse",
+        "lupin",
+        "miso",
+        "rød linse",
+        "sojabønne",
+        "sort bønne",
+        "tempeh",
+        "tofu",
+        "ært",
+        "ærter"
+      ]
+    },
+    "soy": {
+      "label": "Soja",
+      "description": "Soja og enkle sojabaserede ingredienser.",
+      "ingredients": [
+        "edamame",
+        "miso",
+        "silketofu",
+        "soja",
+        "sojabønne",
+        "sojadrik",
+        "sojamel",
+        "sojaolie",
+        "sojasauce",
+        "tamari",
+        "tempeh",
+        "tofu"
+      ],
+      "notes": "Raffineret sojaolie og fermenterede produkter vurderes forskelligt afhængigt af produkt."
+    },
+    "celery": {
+      "label": "Selleri",
+      "description": "Bladselleri, knoldselleri og enkle selleribaserede ingredienser.",
+      "ingredients": [
+        "bladselleri",
+        "knoldselleri",
+        "selleri",
+        "sellerifrø",
+        "sellerisalt"
+      ]
+    },
+    "mustard": {
+      "label": "Sennep",
+      "description": "Sennep og enkle sennepsbaserede ingredienser.",
+      "ingredients": [
+        "dijonsennep",
+        "grov sennep",
+        "sennep",
+        "sennepsfrø",
+        "sennepspulver"
+      ]
+    },
+    "sulphiteRelevant": {
+      "label": "Sulfitter relevant",
+      "description": "Ingredienser hvor sulfitter ofte kan være relevante ved deklaration.",
+      "ingredients": [
+        "champagne",
+        "cider",
+        "hvidvin",
+        "hvidvinseddike",
+        "madeira",
+        "portvin",
+        "rosin",
+        "rosiner",
+        "rødvin",
+        "rødvinseddike",
+        "sherry",
+        "sherryeddike",
+        "soltørret tomat",
+        "sveske",
+        "svesker",
+        "tør sherry",
+        "tørrede abrikoser",
+        "tørret abrikos",
+        "vin",
+        "vineddike",
+        "vinrester"
+      ],
+      "notes": "Sulfitter afhænger af produkt og mængde; dette er en konservativ indikator, ikke en garanti."
+    },
+    "lupin": {
+      "label": "Lupin",
+      "description": "Lupin og lupinmel.",
+      "ingredients": [
+        "lupin",
+        "lupinmel"
+      ]
+    },
+    "alcohol": {
+      "label": "Alkohol",
+      "description": "Alkoholiske drikke og spiritus brugt som ingrediens.",
+      "ingredients": [
+        "armagnac",
+        "brandy",
+        "brombærlikør",
+        "champagne",
+        "cider",
+        "cognac",
+        "cointreau",
+        "gin",
+        "grøn chartreuse",
+        "hvidvin",
+        "lagret rom",
+        "madeira",
+        "maraschino likør",
+        "mezcal",
+        "mørk rom",
+        "portvin",
+        "rom",
+        "rødvin",
+        "sherry",
+        "shisolikør",
+        "tør sherry",
+        "vin",
+        "vinrester",
+        "vodka",
+        "whiskey",
+        "whisky",
+        "yuzu likør",
+        "øl"
+      ],
+      "notes": "Alkohol kan fordampe delvist ved tilberedning, men klassificeres ud fra ingredienslisten."
+    },
+    "caffeine": {
+      "label": "Koffein",
+      "description": "Ingredienser der typisk bidrager med koffein.",
+      "ingredients": [
+        "chokolade",
+        "espresso",
+        "grøn te",
+        "kaffe",
+        "kakao",
+        "matcha",
+        "mørk chokolade",
+        "sort te"
+      ],
+      "notes": "Kakao og chokolade har normalt lavere koffeinbidrag end kaffe og te."
+    },
+    "mushroom": {
+      "label": "Svamp",
+      "description": "Spiselige svampe og enkle svampebaserede ingredienser.",
+      "ingredients": [
+        "blandede svampe",
+        "brune champignoner",
+        "champignon",
+        "kantarel",
+        "karl johan",
+        "morkelhaler",
+        "portobello",
+        "shiitake",
+        "svamp",
+        "svampepulver",
+        "tørrede morkler",
+        "tørret svamp",
+        "østershat"
+      ]
+    },
+    "allium": {
+      "label": "Løgfamilie",
+      "description": "Løg, hvidløg, porre og beslægtede ingredienser.",
+      "ingredients": [
+        "forårsløg",
+        "hvide løg",
+        "hvidløg",
+        "hvidløgspulver",
+        "løg",
+        "løggranulat",
+        "porre",
+        "porrer",
+        "purløg",
+        "ramsløg",
+        "rødløg",
+        "skalotteløg"
+      ]
+    },
+    "nightshade": {
+      "label": "Natskyggefamilie",
+      "description": "Tomat, peberfrugt, chili, aubergine og kartoffel.",
+      "ingredients": [
+        "aubergine",
+        "cherrytomat",
+        "chili",
+        "chiliflager",
+        "chilipulver",
+        "flåede tomater",
+        "flået tomat",
+        "grøn peber",
+        "hakkede tomater",
+        "jalapeño",
+        "kartoffel",
+        "kartofler",
+        "mild chili",
+        "mild ungarsk paprika",
+        "modne tomater",
+        "nye kartofler",
+        "paprika",
+        "peberfrugt",
+        "roma tomater",
+        "rød chili",
+        "rød peber",
+        "røget paprika",
+        "san marzano-tomater",
+        "soltørret tomat",
+        "tomat",
+        "tomater",
+        "tomatpuré"
+      ]
+    }
+  },
+  "allergens": {
+    "gluten": {
+      "label": "Glutenholdige kornsorter",
+      "description": "EU-allergen: hvede, rug, byg, havre og beslægtede glutenholdige kornsorter.",
+      "triggerTags": [
+        "glutenGrain",
+        "oat"
+      ],
+      "triggerIngredients": [],
+      "notes": "Havre kan være glutenfri hvis certificeret; almindelig havre markeres konservativt."
+    },
+    "crustaceans": {
+      "label": "Krebsdyr",
+      "description": "EU-allergen: krebsdyr og produkter heraf.",
+      "triggerTags": [
+        "crustacean"
+      ],
+      "triggerIngredients": []
+    },
+    "egg": {
+      "label": "Æg",
+      "description": "EU-allergen: æg og produkter heraf.",
+      "triggerTags": [
+        "egg"
+      ],
+      "triggerIngredients": []
+    },
+    "fish": {
+      "label": "Fisk",
+      "description": "EU-allergen: fisk og produkter heraf.",
+      "triggerTags": [
+        "fish"
+      ],
+      "triggerIngredients": []
+    },
+    "peanut": {
+      "label": "Jordnødder",
+      "description": "EU-allergen: jordnødder og produkter heraf.",
+      "triggerTags": [
+        "peanut"
+      ],
+      "triggerIngredients": []
+    },
+    "soy": {
+      "label": "Soja",
+      "description": "EU-allergen: soja og produkter heraf.",
+      "triggerTags": [
+        "soy"
+      ],
+      "triggerIngredients": []
+    },
+    "milk": {
+      "label": "Mælk",
+      "description": "EU-allergen: mælk og produkter heraf, inkl. mælkeprotein.",
+      "triggerTags": [
+        "dairy"
+      ],
+      "triggerIngredients": [],
+      "notes": "Dette er ikke det samme som laktoseintolerance."
+    },
+    "nuts": {
+      "label": "Nødder",
+      "description": "EU-allergen: trænødder og produkter heraf.",
+      "triggerTags": [
+        "nut"
+      ],
+      "triggerIngredients": []
+    },
+    "celery": {
+      "label": "Selleri",
+      "description": "EU-allergen: selleri og produkter heraf.",
+      "triggerTags": [
+        "celery"
+      ],
+      "triggerIngredients": []
+    },
+    "mustard": {
+      "label": "Sennep",
+      "description": "EU-allergen: sennep og produkter heraf.",
+      "triggerTags": [
+        "mustard"
+      ],
+      "triggerIngredients": []
+    },
+    "sesame": {
+      "label": "Sesamfrø",
+      "description": "EU-allergen: sesamfrø og produkter heraf.",
+      "triggerTags": [
+        "sesame"
+      ],
+      "triggerIngredients": []
+    },
+    "sulphites": {
+      "label": "Sulfitter",
+      "description": "EU-allergen: svovldioxid og sulfitter hvor relevant.",
+      "triggerTags": [
+        "sulphiteRelevant"
+      ],
+      "triggerIngredients": [],
+      "notes": "Produkt og koncentration afgør deklarationspligt; dette er kun en ingrediensbaseret indikator."
+    },
+    "lupin": {
+      "label": "Lupin",
+      "description": "EU-allergen: lupin og produkter heraf.",
+      "triggerTags": [
+        "lupin"
+      ],
+      "triggerIngredients": []
+    },
+    "molluscs": {
+      "label": "Bløddyr",
+      "description": "EU-allergen: bløddyr og produkter heraf.",
+      "triggerTags": [
+        "mollusc"
+      ],
+      "triggerIngredients": []
+    },
+    "lactose": {
+      "label": "Laktose",
+      "description": "Intolerancehensyn: ingredienser der typisk indeholder laktose.",
+      "triggerTags": [
+        "lactoseContainingDairy"
+      ],
+      "triggerIngredients": [],
+      "notes": "Ikke et EU-allergen. Adskilt fra mælkeproteinallergi."
+    },
+    "allium": {
+      "label": "Løgfamilie",
+      "description": "Sensitivitet/kosthensyn: løg, hvidløg og beslægtede ingredienser.",
+      "triggerTags": [
+        "allium"
+      ],
+      "triggerIngredients": [],
+      "notes": "Ikke et officielt EU-allergen."
+    },
+    "nightshade": {
+      "label": "Natskyggefamilie",
+      "description": "Sensitivitet/kosthensyn: tomat, chili, peberfrugt, aubergine og kartoffel.",
+      "triggerTags": [
+        "nightshade"
+      ],
+      "triggerIngredients": [],
+      "notes": "Ikke et officielt EU-allergen."
+    },
+    "mushroom": {
+      "label": "Svampe",
+      "description": "Sensitivitet/kosthensyn: spiselige svampe og svampeprodukter.",
+      "triggerTags": [
+        "mushroom"
+      ],
+      "triggerIngredients": [],
+      "notes": "Ikke et officielt EU-allergen."
+    }
+  },
+  "diets": {
+    "vegetarian": {
+      "label": "Vegetarisk",
+      "description": "Uden kød, fjerkræ, fisk, krebsdyr og bløddyr.",
+      "blockedByTags": [
+        "meat",
+        "poultry",
+        "fish",
+        "crustacean",
+        "mollusc",
+        "gelatin"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Nogle vegetarer accepterer animalsk osteløbe; dette datasæt vurderer ikke løbe."
+    },
+    "vegan": {
+      "label": "Vegansk",
+      "description": "Uden animalske produkter.",
+      "blockedByTags": [
+        "animalProduct"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Produkt-afhængige ingredienser vurderes ikke medmindre opskriften angiver animalsk oprindelse."
+    },
+    "pescetarian": {
+      "label": "Pescetarisk",
+      "description": "Uden kød og fjerkræ, men fisk og skaldyr kan indgå.",
+      "blockedByTags": [
+        "meat",
+        "poultry",
+        "gelatin"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Gelatine blokerer konservativt, da den typisk er animalsk fra landdyr."
+    },
+    "dairyFree": {
+      "label": "Mælkefri",
+      "description": "Uden mælk og mælkeprodukter.",
+      "blockedByTags": [
+        "dairy"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Dækker mælkeprotein, ikke kun laktose."
+    },
+    "lactoseFree": {
+      "label": "Laktosefri",
+      "description": "Uden ingredienser der typisk indeholder relevant laktose.",
+      "blockedByTags": [
+        "lactoseContainingDairy"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Produkt-afhængigt. Laktosefri mælk bør være et særskilt canonical navn uden denne tag."
+    },
+    "glutenFree": {
+      "label": "Glutenfri",
+      "description": "Uden glutenholdige kornsorter og almindelig havre.",
+      "blockedByTags": [
+        "glutenGrain",
+        "oat"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Certificeret glutenfri havre bør håndteres som særskilt canonical ingrediens."
+    },
+    "nutFree": {
+      "label": "Nøddefri",
+      "description": "Uden trænødder.",
+      "blockedByTags": [
+        "nut"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Jordnødder og frø håndteres separat."
+    },
+    "peanutFree": {
+      "label": "Jordnøddefri",
+      "description": "Uden jordnødder og jordnøddeprodukter.",
+      "blockedByTags": [
+        "peanut"
+      ],
+      "blockedByIngredients": []
+    },
+    "eggFree": {
+      "label": "Ægfri",
+      "description": "Uden æg og ægdele.",
+      "blockedByTags": [
+        "egg"
+      ],
+      "blockedByIngredients": []
+    },
+    "fishFree": {
+      "label": "Fiskefri",
+      "description": "Uden fisk og fiskebaserede ingredienser.",
+      "blockedByTags": [
+        "fish"
+      ],
+      "blockedByIngredients": []
+    },
+    "shellfishFree": {
+      "label": "Skaldyrsfri",
+      "description": "Uden krebsdyr og bløddyr.",
+      "blockedByTags": [
+        "crustacean",
+        "mollusc"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Fisk blokerer ikke denne kostretning; brug fishFree for fisk."
+    },
+    "alcoholFree": {
+      "label": "Alkoholfri",
+      "description": "Uden alkoholiske ingredienser.",
+      "blockedByTags": [
+        "alcohol"
+      ],
+      "blockedByIngredients": [],
+      "notes": "Klassificeres ud fra ingredienslisten, ikke efter om alkoholen fordamper under tilberedning."
+    }
+  }
+}
