@@ -544,6 +544,22 @@
         }
       }
     },
+    "tørgær": {
+      "unit": "kg",
+      "price": 350,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "xanthan": {
       "unit": "kg",
       "price": 650,
@@ -2105,31 +2121,6 @@
         }
       }
     },
-    "gulerødder": {
-      "unit": "kg",
-      "price": 18,
-      "conversions": {
-        "stk": {
-          "grams": 90
-        }
-      },
-      "yield": 0.9,
-      "preferredUnit": "stk",
-      "displayUnits": {
-        "kg": {
-          "singular": "kg",
-          "plural": "kg"
-        },
-        "stk": {
-          "singular": "stk",
-          "plural": "stk"
-        },
-        "g": {
-          "singular": "g",
-          "plural": "g"
-        }
-      }
-    },
     "nye gulerødder": {
       "unit": "kg",
       "price": 35,
@@ -2255,7 +2246,7 @@
         }
       }
     },
-    "kartofler": {
+    "kartoffel": {
       "unit": "kg",
       "price": 18,
       "conversions": {

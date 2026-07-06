@@ -55,9 +55,10 @@ Prepliste-regler:
 - Brug `= Sektion` til reelle komponenter, arbejdsblokke eller servicefaser, ikke som dekorative overskrifter.
 - En sektion skal kunne stå alene på en prepliste med en checkbox, fx `Dej`, `Sauce`, `Fyld`, `Kød`, `Grønt`, `Topping`, `Anretning` eller `Servering`.
 - Del opskriften op i flere sektioner, når arbejdet naturligt kan forberedes, uddelegeres eller krydses af separat.
-- Hvis en læsevenlig sektion indeholder flere selvstændige mise en place-komponenter, så markér prep-komponenterne med `>> Navn` lige før de relevante trin.
+- Hvis en læsevenlig sektion indeholder flere selvstændige mise en place-komponenter, skal prep-komponenterne som udgangspunkt markeres med `>> Navn` lige før de relevante trin.
 - `>>`-markører er appens egen konvention oven på Cooklang. De vises ikke som almindelige instruktioner, men bruges til preplister.
-- Brug `>>` sparsomt og kun når preplisten bliver mere praktisk end ved at bruge sektionens navn alene, fx `>> Kartofler`, `>> Løg` og `>> Mascarpone creme` under `= Forberedelse`.
+- Brug meget gerne `>>`, når en sektion som `= Forberedelse` rummer flere ting, der naturligt kan krydses af separat, fx `>> Kartofler`, `>> Løg` og `>> Mascarpone creme`.
+- Undlad kun `>>`, hvis sektionens navn allerede er en præcis prep-komponent, eller hvis opdelingen ville give trivielle enkelttrin uden praktisk værdi.
 - Undgå for mange små sektioner. Saml korte handlinger i samme sektion, hvis de normalt udføres samlet.
 - Brug `Anretning` eller `Servering` som sidste sektion, når der er konkrete sidste-øjebliks-handlinger.
 - Brug kun `Anretning` eller `Servering`, hvis der faktisk er en handling, ikke kun et serveringsforslag.
@@ -219,7 +220,7 @@ Regler:
 - Skriv til en erfaren kok.
 - Undgå storytelling, forklaringer og serveringspoesi.
 - Brug sektioner til komponenter eller faser: fx Dej, Sauce, Fyld, Bagning, Anretning.
-- Brug `>> Navn` inde i en sektion, hvis sektionen skal deles i flere prep-komponenter på preplisten.
+- Brug meget gerne `>> Navn` inde i en sektion, når sektionen kan deles i flere prep-komponenter på preplisten.
 - Brug `>` til praktiske noter, ikke til forklarende brødtekst.
 - Brug `@ingrediens{mængde%enhed}` for alle ingredienser med mål.
 - Brug `@ingrediens{}` når ingrediensen bruges uden præcis mængde.
