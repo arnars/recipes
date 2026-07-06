@@ -48,6 +48,22 @@ Frontmatter-tider er altid minutter som tal. Cooklang-timers i opskriftsteksten 
 
 Alle tider vises samlet i opskriftens tidsoversigt, så angiv dem præcist og kort.
 
+Opskrifter bruges også til preplister i menuer. Derfor skal sektioner og timers skrives, så en kok kan se hvilke komponenter der skal produceres, og hvor lang tid hver komponent kræver.
+
+Prepliste-regler:
+
+- Brug `= Sektion` til reelle komponenter, arbejdsblokke eller servicefaser, ikke som dekorative overskrifter.
+- En sektion skal kunne stå alene på en prepliste med en checkbox, fx `Dej`, `Sauce`, `Fyld`, `Kød`, `Grønt`, `Topping`, `Anretning` eller `Servering`.
+- Del opskriften op i flere sektioner, når arbejdet naturligt kan forberedes, uddelegeres eller krydses af separat.
+- Undgå for mange små sektioner. Saml korte handlinger i samme sektion, hvis de normalt udføres samlet.
+- Brug `Anretning` eller `Servering` som sidste sektion, når der er konkrete sidste-øjebliks-handlinger.
+- Brug kun `Anretning` eller `Servering`, hvis der faktisk er en handling, ikke kun et serveringsforslag.
+- Named timers skal placeres i den sektion, hvor tiden praktisk hører hjemme, fordi preplisten viser tider under den enkelte komponent.
+- Hvis en komponent har både aktiv og passiv tid, angiv de relevante named timers i komponentens trin, fx `~ristning{4-5%minutter}`, `~hviletid{20%minutter}` eller `~køletid{1-2%timer}`.
+- Brug tydelige timer-navne, der kan læses uden kontekst på en prepliste, fx `~bagetid{25-30%minutter}` frem for `~tid{25-30%minutter}`.
+- Hvis en komponent kan laves før service, skriv en kort praktisk note med `>`, fx `> Kan laves dagen før og opbevares på køl.`.
+- Hvis en komponent er afhængig af en anden, skriv det kort i trinnet eller noten, fx `> Bruges til anretning.`.
+
 Vælg præcis én `category` fra denne kontrollerede liste:
 
 - basis
