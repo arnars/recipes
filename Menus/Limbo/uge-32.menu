@@ -7,7 +7,7 @@ draft: false
 ---
 
 = Mandag
-
+@./Indkøb og forbrug/rugbrød{1%portioner}
 @./Indkøb og forbrug/mælk-til-kaffen{4%portioner}
 
 = Tirsdag
@@ -17,6 +17,9 @@ draft: false
 = Onsdag
 
 @./Indkøb og forbrug/mælk-til-kaffen{4%portioner}
+@./Brød, pizza og dej/biga-pizzadej{6%portioner}
+@./Brød, pizza og dej/pizzatopping-kartoffel-karamelliseret-loeg-og-ansjos{4%portioner}
+@./Brød, pizza og dej/pizzatopping-fersken-og-hot-honey{4%portioner}
 
 = Torsdag
 

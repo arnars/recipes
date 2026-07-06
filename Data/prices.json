@@ -5499,6 +5499,65 @@
         }
       }
     },
+    "remoulade": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "ml": {
+          "grams": 0.95
+        },
+        "dl": {
+          "grams": 95.0
+        },
+        "l": {
+          "grams": 950.0
+        },
+        "liter": {
+          "grams": 950.0
+        },
+        "spsk": {
+          "grams": 14.0
+        },
+        "tsk": {
+          "grams": 4.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "Tabasco": {
       "unit": "liter",
       "price": 900,
