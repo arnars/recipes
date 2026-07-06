@@ -2459,12 +2459,21 @@
     "rød peber": {
       "unit": "stk",
       "price": 8,
+      "conversions": {
+        "g": {
+          "units": 0.0067
+        }
+      },
       "yield": 0.8,
       "preferredUnit": "stk",
       "displayUnits": {
         "stk": {
           "singular": "stk",
           "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
         }
       }
     },
@@ -2483,12 +2492,21 @@
     "chili": {
       "unit": "stk",
       "price": 4,
+      "conversions": {
+        "g": {
+          "units": 0.05
+        }
+      },
       "yield": 0.9,
       "preferredUnit": "stk",
       "displayUnits": {
         "stk": {
           "singular": "stk",
           "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
         }
       }
     },
@@ -4365,6 +4383,21 @@
         "stk": {
           "singular": "stk",
           "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "pistaciecreme": {
+      "unit": "kg",
+      "price": 260,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
         },
         "g": {
           "singular": "g",
@@ -9298,6 +9331,163 @@
         "stk": {
           "singular": "stk",
           "plural": "stk"
+        }
+      }
+    },
+    "mascarpone": {
+      "unit": "kg",
+      "price": 110,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "fersken": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "stk": {
+          "grams": 130
+        }
+      },
+      "yield": 0.9,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "palmekål": {
+      "unit": "kg",
+      "price": 80,
+      "yield": 0.75,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kogt skinke": {
+      "unit": "kg",
+      "price": 130,
+      "conversions": {
+        "skive": {
+          "grams": 20
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "spegepølse": {
+      "unit": "kg",
+      "price": 150,
+      "conversions": {
+        "skive": {
+          "grams": 8
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "spæk": {
+      "unit": "kg",
+      "price": 120,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "trøffelolie": {
+      "unit": "liter",
+      "price": 500,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
         }
       }
     }

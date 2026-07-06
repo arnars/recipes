@@ -111,6 +111,7 @@ Kategori-eksempler:
 
 - Pizzadej → basis
 - Pizza margherita → brød, pizza og dej
+- Pizzatopping: svampe og stracchino → brød, pizza og dej
 - Focaccia → brød, pizza og dej
 - Mortadella panuozzo → sandwich og toast
 - Croque monsieur → sandwich og toast
@@ -128,6 +129,16 @@ Kategori-eksempler:
 - Hyldeblomstsaft → drikke
 - Rugbrødsfrokost → indkøb og forbrug
 - Kaffe med mælk → indkøb og forbrug
+
+Pizzatopping-regler:
+
+- Hvis brugeren beder om en pizza topping, brug titel-formatet `Pizzatopping: [navn]`.
+- Brug `category: brød, pizza og dej`.
+- Brug altid tags `pizza` og `topping`, plus 1-4 relevante råvare-, teknik- eller udstyrstags.
+- Sæt som udgangspunkt `servings: 1`, så toppingen passer til én pizza og let kan skaleres.
+- Medtag ikke en separat `= Brug`-sektion, da den støjer i preplister.
+- Skriv i stedet denne praktiske note lige efter frontmatter: `> Brug toppingen på @./Brød, pizza og dej/biga-pizzadej{}, @./Brød, pizza og dej/new-york-style-pizzadej{} eller anden pizzadej.`
+- Brug normalt `= Forberedelse` og derefter `= Topping og bagning`. Hvis toppingen først lægges på efter bagning, brug `= Servering` som sidste sektion.
 
 Vælg 3-6 `tags`.
 
@@ -245,10 +256,12 @@ Ingredient preparation / mise en place:
 
 Efter oprettelse eller ændring af en opskrift skal de fælles datafiler holdes ajour:
 
-- Scan opskriftens `@ingredienser{}` og kontrollér dem mod `Data/aliases.json`, `Data/shoppingAliases.json` og `Data/prices.json`.
+- Scan opskriftens `@ingredienser{}` og kontrollér dem mod `Data/aliases.json`, `Data/shoppingAliases.json`, `Data/prices.json` og `Data/ingredientClassifications.json`.
 - Tilføj kun aliaser i `Data/aliases.json`, når en ingrediens er en reel navnevariant af en eksisterende ingrediens, fx `flagesalt` til `salt`.
 - Tilføj kun shopping-aliaser i `Data/shoppingAliases.json`, når indkøb bør samles anderledes end opskriftens ordlyd, fx `citronsaft` til `citron`.
 - Tilføj eller opdater `Data/prices.json`, når nye ingredienser, enheder, konverteringer eller relevante yield-værdier mangler for prisberegning.
+- Tilføj eller opdater `Data/ingredientClassifications.json`, når nye canonical ingredienser bør påvirke ingredient tags, allergener, sensitiviteter eller diets.
+- Hold klassifikationsdata adskilt fra prisdata; tilføj ikke allergen-, diet- eller ingredient-tag-metadata i `Data/prices.json`.
 - Bevar prisfilens model: hver vare har en basis-`unit`, en `price`, valgfrie `conversions` og valgfrit `yield`.
 - `conversions` beskriver kun mængdekonvertering, fx `stk -> grams`, `spsk -> grams` eller `g -> milliliters`.
 - `yield` beskriver den brugbare/spiselige andel efter almindeligt svind og ligger på vareniveau. Hvis `yield` mangler, antages 1.0. Yield anvendes efter conversion.

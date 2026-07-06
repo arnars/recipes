@@ -70,8 +70,10 @@
         "sild",
         "skaldyrsskaller",
         "skinke",
+        "kogt skinke",
         "skyr",
         "smør",
+        "spæk",
         "stracchino",
         "svinebov",
         "svinekød",
@@ -114,6 +116,8 @@
         "salami",
         "salsiccia",
         "skinke",
+        "kogt skinke",
+        "spæk",
         "svinebov",
         "svinekød",
         "vildsvinefars",
@@ -448,10 +452,24 @@
         "paranød",
         "pekannød",
         "pistacie",
+        "pistaciecreme",
         "pistacienødder",
         "valnød"
       ],
       "notes": "Jordnød er ikke medtaget; den håndteres separat."
+    },
+    "personalHazelnutAlmond": {
+      "label": "Hasselnød og mandel",
+      "description": "Personligt hensyn for hasselnødder, mandler og enkle produkter heraf.",
+      "ingredients": [
+        "hasselnød",
+        "hasselnødder",
+        "hasselnøddepasta",
+        "mandel",
+        "mandler",
+        "mandelmel"
+      ],
+      "notes": "Mandelmel kan være acceptabelt i varmebehandlet bagværk for den konkrete allergiker; markér derfor som kræver vurdering frem for absolut stop."
     },
     "peanut": {
       "label": "Jordnød",
@@ -543,6 +561,26 @@
         "sellerifrø",
         "sellerisalt"
       ]
+    },
+    "personalRawRootVegetable": {
+      "label": "Rå rodfrugt og fennikel",
+      "description": "Personligt hensyn for grøntsager der kun tåles varmebehandlet.",
+      "ingredients": [
+        "gulerod",
+        "gulerødder",
+        "selleri",
+        "bladselleri",
+        "knoldselleri",
+        "pastinak",
+        "pastinakker",
+        "rødbede",
+        "rødbeder",
+        "bede",
+        "rodfrugt",
+        "rodfrugter",
+        "fennikel"
+      ],
+      "notes": "Relevant især når ingrediensen serveres rå. Varmebehandlede grøntsager er typisk acceptable for den konkrete allergiker."
     },
     "mustard": {
       "label": "Sennep",
@@ -710,6 +748,26 @@
         "tomater",
         "tomatpuré"
       ]
+    },
+    "personalRawFruit": {
+      "label": "Rå frugt",
+      "description": "Personligt hensyn for frugter der kun tåles varmebehandlet.",
+      "ingredients": [
+        "æble",
+        "æbler",
+        "pære",
+        "pærer",
+        "blomme",
+        "blommer",
+        "nektarin",
+        "nektariner",
+        "fersken",
+        "ferskner",
+        "kirsebær",
+        "stenfrugt",
+        "stenfrugter"
+      ],
+      "notes": "Relevant især når frugten serveres rå. Varmebehandlet frugt er typisk acceptabel for den konkrete allergiker."
     }
   },
   "allergens": {
@@ -864,6 +922,25 @@
       ],
       "triggerIngredients": [],
       "notes": "Ikke et officielt EU-allergen."
+    },
+    "personalHazelnutAlmond": {
+      "label": "Personligt hensyn: hasselnød og mandel",
+      "description": "Personligt allergen-/kosthensyn for hasselnødder, mandler og enkle produkter heraf.",
+      "triggerTags": [
+        "personalHazelnutAlmond"
+      ],
+      "triggerIngredients": [],
+      "notes": "Ikke et officielt EU-allergen. Mandelmel i varmebehandlet bagværk kan være acceptabelt for den konkrete allergiker, så markér som kræver vurdering."
+    },
+    "personalRawFruitVegetable": {
+      "label": "Personligt hensyn: rå frugt og grønt",
+      "description": "Personligt allergen-/kosthensyn for bestemte frugter og grøntsager, når de serveres rå.",
+      "triggerTags": [
+        "personalRawRootVegetable",
+        "personalRawFruit"
+      ],
+      "triggerIngredients": [],
+      "notes": "Ikke et officielt EU-allergen. Systemet kan ikke sikkert afgøre rå kontra varmebehandlet ud fra ingrediensnavnet alene. Varmebehandlet er typisk acceptabelt; rå stykker kan ofte pilles fra, hvis de er store nok."
     }
   },
   "diets": {
