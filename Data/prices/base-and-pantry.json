@@ -1,0 +1,714 @@
+{
+  "items": {
+    "vand": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "koldt vand": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "pastavand": {
+      "unit": "liter",
+      "price": 0,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "salt": {
+      "unit": "kg",
+      "price": 12,
+      "pantry": true,
+      "conversions": {
+        "nip": {
+          "grams": 0.5
+        },
+        "spsk": {
+          "grams": 18
+        },
+        "tsk": {
+          "grams": 6
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "nip": {
+          "singular": "nip",
+          "plural": "nip"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sort peber": {
+      "unit": "kg",
+      "price": 220,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        },
+        "stk": {
+          "grams": 0.05
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "peberkorn": {
+      "unit": "kg",
+      "price": 220,
+      "pantry": true,
+      "conversions": {
+        "stk": {
+          "grams": 0.05
+        },
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sukker": {
+      "unit": "kg",
+      "price": 18,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 12
+        },
+        "tsk": {
+          "grams": 4
+        },
+        "nip": {
+          "grams": 0.5
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "rørsukker": {
+      "unit": "kg",
+      "price": 24,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 12
+        },
+        "tsk": {
+          "grams": 4
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "brun farin": {
+      "unit": "kg",
+      "price": 24,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 12
+        },
+        "tsk": {
+          "grams": 4
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "flormelis": {
+      "unit": "kg",
+      "price": 22,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "vaniljesukker": {
+      "unit": "kg",
+      "price": 90,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "vaniljestang": {
+      "unit": "stk",
+      "price": 18,
+      "pantry": true,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "natron": {
+      "unit": "kg",
+      "price": 35,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "majsstivelse": {
+      "unit": "kg",
+      "price": 45,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kartoffelmel": {
+      "unit": "kg",
+      "price": 35,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 8
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "xanthan": {
+      "unit": "kg",
+      "price": 650,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "glukosesirup": {
+      "unit": "kg",
+      "price": 45,
+      "pantry": true,
+      "conversions": {
+        "ml": {
+          "grams": 1.35
+        },
+        "dl": {
+          "grams": 135
+        },
+        "l": {
+          "grams": 1350
+        },
+        "liter": {
+          "grams": 1350
+        },
+        "spsk": {
+          "grams": 20
+        },
+        "tsk": {
+          "grams": 6.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "honning": {
+      "unit": "kg",
+      "price": 90,
+      "pantry": true,
+      "conversions": {
+        "ml": {
+          "grams": 1.42
+        },
+        "dl": {
+          "grams": 142
+        },
+        "l": {
+          "grams": 1420
+        },
+        "liter": {
+          "grams": 1420
+        },
+        "spsk": {
+          "grams": 21
+        },
+        "tsk": {
+          "grams": 7
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "malt": {
+      "unit": "kg",
+      "price": 55,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "maltmel": {
+      "unit": "kg",
+      "price": 55,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kaffe": {
+      "unit": "kg",
+      "price": 140,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 6
+        },
+        "tsk": {
+          "grams": 2
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "flagesalt": {
+      "unit": "kg",
+      "price": 25,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 5
+        },
+        "spsk": {
+          "grams": 15
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    }
+  }
+}

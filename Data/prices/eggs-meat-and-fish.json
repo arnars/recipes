@@ -1,0 +1,963 @@
+{
+  "items": {
+    "æg": {
+      "unit": "stk",
+      "price": 3.25,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "æggeblommer": {
+      "unit": "stk",
+      "price": 3.25,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "æggeblomme": {
+      "unit": "stk",
+      "price": 3.25,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "æggehvide": {
+      "unit": "kg",
+      "price": 100,
+      "conversions": {
+        "stk": {
+          "grams": 33
+        },
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103
+        },
+        "liter": {
+          "grams": 1030
+        },
+        "l": {
+          "grams": 1030
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "æggehvider": {
+      "unit": "kg",
+      "price": 100,
+      "conversions": {
+        "stk": {
+          "grams": 33
+        },
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103
+        },
+        "liter": {
+          "grams": 1030
+        },
+        "l": {
+          "grams": 1030
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "pasteuriseret æggehvide": {
+      "unit": "kg",
+      "price": 80,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hårdkogt æg": {
+      "unit": "stk",
+      "price": 3.25,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "skaldyrsskaller": {
+      "unit": "kg",
+      "price": 45,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hakket oksekød": {
+      "unit": "kg",
+      "price": 95,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hakket kød": {
+      "unit": "kg",
+      "price": 85,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "tykkam": {
+      "unit": "kg",
+      "price": 120,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kogt tykkam": {
+      "unit": "kg",
+      "price": 120,
+      "yield": 0.95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "okseinderlår": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kalveinderlår": {
+      "unit": "kg",
+      "price": 240,
+      "yield": 0.95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "nyretap": {
+      "unit": "kg",
+      "price": 220,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "oksehale": {
+      "unit": "kg",
+      "price": 85,
+      "conversions": {
+        "stk": {
+          "grams": 1500
+        }
+      },
+      "yield": 0.55,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "nakkefilet": {
+      "unit": "kg",
+      "price": 75,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "svinebov": {
+      "unit": "kg",
+      "price": 70,
+      "yield": 0.85,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "vildsvinekød": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hakket vildsvinekød": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "vildsvinefars": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kylling": {
+      "unit": "kg",
+      "price": 55,
+      "yield": 0.65,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kyllingekød": {
+      "unit": "kg",
+      "price": 75,
+      "yield": 0.95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kyllingeoverlår": {
+      "unit": "kg",
+      "price": 65,
+      "conversions": {
+        "stk": {
+          "grams": 175
+        }
+      },
+      "yield": 0.75,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kyllingebryst": {
+      "unit": "kg",
+      "price": 95,
+      "yield": 0.95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hønsebryst": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "stk": {
+          "grams": 160
+        }
+      },
+      "yield": 0.95,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "fasanbryster": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "stk": {
+          "grams": 150
+        }
+      },
+      "yield": 0.9,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "and": {
+      "unit": "kg",
+      "price": 85,
+      "yield": 0.55,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ande-foie gras": {
+      "unit": "kg",
+      "price": 900,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "guanciale": {
+      "unit": "kg",
+      "price": 260,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "guanciale eller spæk": {
+      "unit": "kg",
+      "price": 180,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "chorizo": {
+      "unit": "kg",
+      "price": 130,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "salsiccia": {
+      "unit": "kg",
+      "price": 140,
+      "conversions": {
+        "stk": {
+          "grams": 100
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "mortadella": {
+      "unit": "kg",
+      "price": 160,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "parmaskinke": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "skive": {
+          "grams": 15
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "prosciutto": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "skive": {
+          "grams": 15
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "fedtnet": {
+      "unit": "kg",
+      "price": 70,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "torskefilet": {
+      "unit": "kg",
+      "price": 180,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "tun i olie": {
+      "unit": "kg",
+      "price": 140,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "jomfruhummerhaler": {
+      "unit": "kg",
+      "price": 520,
+      "conversions": {
+        "stk": {
+          "grams": 20
+        }
+      },
+      "yield": 0.9,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "10-armede blæksprutter": {
+      "unit": "kg",
+      "price": 140,
+      "conversions": {
+        "stk": {
+          "grams": 500
+        }
+      },
+      "yield": 0.55,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "nduja": {
+      "unit": "kg",
+      "price": 260,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ribbensteg uden ben": {
+      "unit": "kg",
+      "price": 95,
+      "yield": 0.82,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "boquerones": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "stk": {
+          "grams": 5
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "kogt skinke": {
+      "unit": "kg",
+      "price": 130,
+      "conversions": {
+        "skive": {
+          "grams": 20
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "spegepølse": {
+      "unit": "kg",
+      "price": 150,
+      "conversions": {
+        "skive": {
+          "grams": 8
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "spæk": {
+      "unit": "kg",
+      "price": 120,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ansjos": {
+      "unit": "kg",
+      "price": 250,
+      "pantry": true,
+      "conversions": {
+        "filet": {
+          "grams": 4
+        },
+        "stk": {
+          "grams": 4
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hakket lammekød": {
+      "unit": "kg",
+      "price": 130,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "svinekoteletter med skaft": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "stk": {
+          "grams": 300
+        }
+      },
+      "yield": 0.78,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    }
+  }
+}

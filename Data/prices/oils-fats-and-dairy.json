@@ -1,0 +1,992 @@
+{
+  "items": {
+    "smør": {
+      "unit": "kg",
+      "price": 85,
+      "conversions": {
+        "spsk": {
+          "grams": 14
+        },
+        "stor knold": {
+          "grams": 30
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "klaret smør": {
+      "unit": "kg",
+      "price": 105,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "brunet smør": {
+      "unit": "kg",
+      "price": 95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "olivenolie": {
+      "unit": "liter",
+      "price": 95,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "neutral olie": {
+      "unit": "liter",
+      "price": 28,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "rapsolie": {
+      "unit": "liter",
+      "price": 28,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "andefedt": {
+      "unit": "kg",
+      "price": 120,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "svinefedt": {
+      "unit": "kg",
+      "price": 65,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "piskefløde": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "fløde": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "creme fraiche": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "ml": {
+          "grams": 1
+        },
+        "dl": {
+          "grams": 100
+        },
+        "l": {
+          "grams": 1000
+        },
+        "liter": {
+          "grams": 1000
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "creme fraiche 38%": {
+      "unit": "kg",
+      "price": 70,
+      "conversions": {
+        "ml": {
+          "grams": 1
+        },
+        "dl": {
+          "grams": 100
+        },
+        "l": {
+          "grams": 1000
+        },
+        "liter": {
+          "grams": 1000
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "mælk": {
+      "unit": "liter",
+      "price": 14,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "sødmælk": {
+      "unit": "liter",
+      "price": 16,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "kærnemælk": {
+      "unit": "liter",
+      "price": 15,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "ricotta": {
+      "unit": "kg",
+      "price": 95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "frisk mozzarella": {
+      "unit": "kg",
+      "price": 95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "mozzarella": {
+      "unit": "kg",
+      "price": 95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "burrata": {
+      "unit": "kg",
+      "price": 180,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "parmesan": {
+      "unit": "kg",
+      "price": 240,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "pecorino": {
+      "unit": "kg",
+      "price": 220,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "mild gedeost": {
+      "unit": "kg",
+      "price": 180,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "stracchino": {
+      "unit": "kg",
+      "price": 150,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "provolone": {
+      "unit": "kg",
+      "price": 160,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ost": {
+      "unit": "kg",
+      "price": 95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "havremælk": {
+      "unit": "liter",
+      "price": 22,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "sesamolie": {
+      "unit": "liter",
+      "price": 120,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "chiliolie": {
+      "unit": "liter",
+      "price": 120,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "feta": {
+      "unit": "kg",
+      "price": 110,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "mascarpone": {
+      "unit": "kg",
+      "price": 110,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "trøffelolie": {
+      "unit": "liter",
+      "price": 500,
+      "conversions": {
+        "g": {
+          "milliliters": 1.09
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "blå ost": {
+      "unit": "kg",
+      "price": 180,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "cheddar": {
+      "unit": "kg",
+      "price": 105,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "fast gedeost": {
+      "unit": "kg",
+      "price": 220,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "gedeost": {
+      "unit": "kg",
+      "price": 210,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "græsk yoghurt": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "spsk": {
+          "grams": 15
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hasselnøddeolie": {
+      "unit": "liter",
+      "price": 180,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "scamorza": {
+      "unit": "kg",
+      "price": 180,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "solsikkeolie": {
+      "unit": "liter",
+      "price": 28,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    }
+  }
+}

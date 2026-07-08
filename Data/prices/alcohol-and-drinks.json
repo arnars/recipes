@@ -1,0 +1,1107 @@
+{
+  "items": {
+    "hvidvin": {
+      "unit": "liter",
+      "price": 80,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "rødvin": {
+      "unit": "liter",
+      "price": 90,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "tør sherry": {
+      "unit": "liter",
+      "price": 110,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "madeira": {
+      "unit": "liter",
+      "price": 140,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "whiskey": {
+      "unit": "liter",
+      "price": 280,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "cognac": {
+      "unit": "liter",
+      "price": 320,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "armagnac": {
+      "unit": "liter",
+      "price": 360,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "vodka": {
+      "unit": "liter",
+      "price": 180,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "gin": {
+      "unit": "liter",
+      "price": 230,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "shisolikør": {
+      "unit": "liter",
+      "price": 250,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        },
+        "ml": {
+          "milliliters": 1
+        }
+      },
+      "preferredUnit": "ml",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "mezcal": {
+      "unit": "liter",
+      "price": 420,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "lagret rom": {
+      "unit": "liter",
+      "price": 300,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "mørk rom": {
+      "unit": "liter",
+      "price": 240,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "pineapple rom": {
+      "unit": "liter",
+      "price": 240,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "Cointreau": {
+      "unit": "liter",
+      "price": 280,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "grøn Chartreuse": {
+      "unit": "liter",
+      "price": 650,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "maraschino likør": {
+      "unit": "liter",
+      "price": 260,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "brombærlikør": {
+      "unit": "liter",
+      "price": 220,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "yuzu likør": {
+      "unit": "liter",
+      "price": 300,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "Angostura bitters": {
+      "unit": "liter",
+      "price": 1200,
+      "conversions": {
+        "dråbe": {
+          "milliliters": 0.05
+        },
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "dråbe": {
+          "singular": "dråbe",
+          "plural": "dråber"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "champagne": {
+      "unit": "liter",
+      "price": 240,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "danskvand": {
+      "unit": "liter",
+      "price": 8,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "sukkersirup": {
+      "unit": "liter",
+      "price": 25,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "sirup": {
+      "unit": "liter",
+      "price": 25,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "agavesirup": {
+      "unit": "liter",
+      "price": 85,
+      "conversions": {
+        "g": {
+          "milliliters": 0.74
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "ingefærsirup": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "grapefrugtjuice": {
+      "unit": "liter",
+      "price": 35,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        },
+        "ml": {
+          "milliliters": 1
+        }
+      },
+      "preferredUnit": "ml",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
+    "grapefrugtskal": {
+      "unit": "kg",
+      "price": 70,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "cocktailkirsebær": {
+      "unit": "stk",
+      "price": 3,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "cider": {
+      "unit": "liter",
+      "price": 38,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    }
+  }
+}

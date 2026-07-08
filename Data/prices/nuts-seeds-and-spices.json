@@ -1,0 +1,1050 @@
+{
+  "items": {
+    "mandler": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "stk": {
+          "grams": 1.2
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hasselnødder": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "stk": {
+          "grams": 1.2
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "pistacienødder": {
+      "unit": "kg",
+      "price": 220,
+      "conversions": {
+        "stk": {
+          "grams": 0.7
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "pistaciecreme": {
+      "unit": "kg",
+      "price": 260,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ristede pinjekerner": {
+      "unit": "kg",
+      "price": 260,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sennepsfrø": {
+      "unit": "kg",
+      "price": 55,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "nigellafrø": {
+      "unit": "kg",
+      "price": 120,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "marcipan": {
+      "unit": "kg",
+      "price": 90,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kransekagemasse": {
+      "unit": "kg",
+      "price": 110,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hasselnøddepasta": {
+      "unit": "kg",
+      "price": 180,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "paprika": {
+      "unit": "kg",
+      "price": 140,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "røget paprika": {
+      "unit": "kg",
+      "price": 170,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "mild ungarsk paprika": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hvidløgspulver": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "spsk": {
+          "grams": 8
+        },
+        "tsk": {
+          "grams": 2.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "chiliflager": {
+      "unit": "kg",
+      "price": 160,
+      "conversions": {
+        "spsk": {
+          "grams": 3
+        },
+        "tsk": {
+          "grams": 1
+        },
+        "nip": {
+          "grams": 0.25
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "spidskommen": {
+      "unit": "kg",
+      "price": 140,
+      "conversions": {
+        "spsk": {
+          "grams": 6
+        },
+        "tsk": {
+          "grams": 2
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "oregano": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "spsk": {
+          "grams": 3
+        },
+        "tsk": {
+          "grams": 1
+        },
+        "nip": {
+          "grams": 0.25
+        },
+        "kvist": {
+          "grams": 1
+        },
+        "håndfuld": {
+          "grams": 10
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "tørrede urter": {
+      "unit": "kg",
+      "price": 100,
+      "conversions": {
+        "spsk": {
+          "grams": 3
+        },
+        "tsk": {
+          "grams": 1
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "stjerneanis": {
+      "unit": "kg",
+      "price": 300,
+      "conversions": {
+        "stk": {
+          "grams": 1
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kanel": {
+      "unit": "kg",
+      "price": 160,
+      "conversions": {
+        "tsk": {
+          "grams": 2.6
+        },
+        "nip": {
+          "grams": 0.5
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "korianderfrø": {
+      "unit": "kg",
+      "price": 120,
+      "conversions": {
+        "spsk": {
+          "grams": 5
+        },
+        "tsk": {
+          "grams": 1.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "fennikelfrø": {
+      "unit": "kg",
+      "price": 130,
+      "conversions": {
+        "spsk": {
+          "grams": 5
+        },
+        "tsk": {
+          "grams": 1.67
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "enebær": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "stk": {
+          "grams": 0.2
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "laurbærblad": {
+      "unit": "kg",
+      "price": 260,
+      "conversions": {
+        "stk": {
+          "grams": 0.2
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "blackened spice": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "Pepper Rdx": {
+      "unit": "kg",
+      "price": 350,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "muskatnød": {
+      "unit": "kg",
+      "price": 900,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2.2
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "sichuanpeber": {
+      "unit": "kg",
+      "price": 650,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 6
+        },
+        "tsk": {
+          "grams": 2
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "hvid peber": {
+      "unit": "kg",
+      "price": 260,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "sesamfrø": {
+      "unit": "kg",
+      "price": 75,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 9
+        },
+        "tsk": {
+          "grams": 3
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "Aleppo peber": {
+      "unit": "kg",
+      "price": 450,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 7
+        },
+        "tsk": {
+          "grams": 2.33
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "bukkehorn": {
+      "unit": "kg",
+      "price": 180,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "cayennepeber": {
+      "unit": "kg",
+      "price": 220,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2.5
+        },
+        "knivspids": {
+          "grams": 0.25
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "gurkemeje": {
+      "unit": "kg",
+      "price": 140,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kanelstang": {
+      "unit": "kg",
+      "price": 500,
+      "pantry": true,
+      "conversions": {
+        "stk": {
+          "grams": 4
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kardemommekapsler": {
+      "unit": "kg",
+      "price": 450,
+      "pantry": true,
+      "conversions": {
+        "stk": {
+          "grams": 0.25
+        },
+        "tsk": {
+          "grams": 2
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "merian": {
+      "unit": "kg",
+      "price": 550,
+      "conversions": {
+        "kvist": {
+          "grams": 1
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "peanuts": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "håndfuld": {
+          "grams": 30
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "safran": {
+      "unit": "kg",
+      "price": 50000,
+      "pantry": true,
+      "conversions": {
+        "knivspids": {
+          "grams": 0.05
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sorte peberkorn": {
+      "unit": "kg",
+      "price": 220,
+      "pantry": true,
+      "conversions": {
+        "stk": {
+          "grams": 0.05
+        },
+        "tsk": {
+          "grams": 2.5
+        },
+        "spsk": {
+          "grams": 7.5
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "spidskommenfrø": {
+      "unit": "kg",
+      "price": 160,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sød paprika": {
+      "unit": "kg",
+      "price": 120,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    }
+  }
+}
