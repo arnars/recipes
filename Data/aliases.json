@@ -36,7 +36,8 @@
       "gulerødder"
     ],
     "kartoffel": [
-      "kartofler"
+      "kartofler",
+      "nye kartofler"
     ],
     "rucola": [
       "rucula"
@@ -53,6 +54,37 @@
     ],
     "æggehvide": [
       "æggehvider"
+    ],
+    "persille": [
+      "bredbladet persille"
+    ],
+    "rødbede": [
+      "rødbeder",
+      "kogt rødbede"
+    ],
+    "cannellinibønner": [
+      "cannellinibønne"
+    ],
+    "peberfrugt": [
+      "peberfrugter",
+      "rød peber",
+      "gul peber"
+    ],
+    "gedeost": [
+      "fast gedeost",
+      "mild gedeost"
+    ],
+    "brød": [
+      "hvidt brød"
+    ],
+    "spidskommen": [
+      "spidskommenfrø"
+    ],
+    "valnød": [
+      "valnødder"
+    ],
+    "puy-linser": [
+      "puy linser"
     ]
   },
   "cookware": {

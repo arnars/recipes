@@ -265,6 +265,7 @@ Efter oprettelse eller ændring af en opskrift skal de fælles datafiler holdes 
 - Tilføj kun aliaser i `Data/aliases.json`, når en ingrediens er en reel navnevariant af en eksisterende ingrediens, fx `flagesalt` til `salt`.
 - Tilføj kun shopping-aliaser i `Data/shoppingAliases.json`, når indkøb bør samles anderledes end opskriftens ordlyd, fx `citronsaft` til `citron`.
 - Tilføj eller opdater `Data/prices.json`, når nye ingredienser, enheder, konverteringer eller relevante yield-værdier mangler for prisberegning.
+- Når en opskrift bruger en enhedsvariant eller pluralform, fx `håndfulde`, `bundter`, `strimler`, `stykker`, `blad`, `kvist`, `nip` eller `stor knold`, kontrollér både `unitAliases` og varens `conversions` i `Data/prices.json`, så prisberegningen kan omsætte opskriftens enhed til varens basis-`unit`.
 - Tilføj eller opdater `Data/ingredientClassifications.json`, når nye canonical ingredienser bør påvirke ingredient tags, allergener, sensitiviteter eller diets.
 - Hold klassifikationsdata adskilt fra prisdata; tilføj ikke allergen-, diet- eller ingredient-tag-metadata i `Data/prices.json`.
 - Bevar prisfilens model: hver vare har en basis-`unit`, en `price`, valgfrie `conversions` og valgfrit `yield`.
