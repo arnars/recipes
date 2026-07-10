@@ -709,6 +709,45 @@
           "plural": "g"
         }
       }
+    },
+    "ahornsirup": {
+      "unit": "liter",
+      "price": 120,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 0.75
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
     }
   }
 }

@@ -987,6 +987,37 @@
           "plural": "tsk"
         }
       }
+    },
+    "planteyoghurt": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "dl": {
+          "grams": 100
+        },
+        "spsk": {
+          "grams": 15
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }

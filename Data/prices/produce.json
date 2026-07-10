@@ -2314,6 +2314,54 @@
         }
       }
     },
+    "sort bønne": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "dåse": {
+          "grams": 240
+        }
+      },
+      "preferredUnit": "dåse",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "dåse": {
+          "singular": "dåse",
+          "plural": "dåser"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kikært": {
+      "unit": "kg",
+      "price": 35,
+      "conversions": {
+        "dåse": {
+          "grams": 240
+        }
+      },
+      "preferredUnit": "dåse",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "dåse": {
+          "singular": "dåse",
+          "plural": "dåser"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "ribs": {
       "unit": "kg",
       "price": 90,

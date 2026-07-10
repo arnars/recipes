@@ -53,9 +53,16 @@ When the user asks for a recipe or menu to be saved, created, updated, or conver
 
 ## Cooklang routing
 
-If the user asks to create, convert, normalize, rewrite, or save a recipe as Cooklang, follow this prompt exactly:
+If the user asks to create, convert, normalize, rewrite, save, or otherwise output a recipe as Cooklang / `.cook`, use the project action in:
 
-`Recipes/Prompts/recipe-cooklang.md`
+`Actions/Add Recipe in cooklang/`
+
+Before writing or editing any `.cook` file, read these files in that order:
+
+1. `Actions/Add Recipe in cooklang/README.md`
+2. `Actions/Add Recipe in cooklang/prompt.md`
+
+Then follow `prompt.md` exactly.
 
 This applies when the source is:
 
@@ -67,7 +74,20 @@ This applies when the source is:
 - notes from a conversation
 - an already developed dish that should be formalized
 
-Do not duplicate the full Cooklang rules in this file. Load the relevant prompt file when needed.
+After creating or changing any `.cook` file, run the content check:
+
+`node "Actions/Add Recipe in cooklang/check-content.mjs" "[path/to/recipe.cook]"`
+
+When creating or changing multiple `.cook` files in one task, batch the workflow:
+
+- Create or update all requested recipe files first.
+- Keep a running list of new canonical ingredients, missing prices, needed conversions, aliases, shopping aliases, and classification changes while working.
+- Apply the shared data updates once after the recipe files are drafted, instead of interrupting each recipe for data edits.
+- Run `check-content.mjs` once with all new or changed recipe paths, then fix any reported data or recipe issues and rerun the same batch check until it has no hard errors.
+
+If the check reports missing prices, missing conversions, unknown units, or other hard errors, update the recipe or shared data deliberately and rerun the check until it has no hard errors. Do not rely on an ad hoc ingredient check instead of `check-content.mjs`.
+
+Do not duplicate the full Cooklang rules in this file. Load the action README and prompt when needed.
 
 ## Shared recipe data upkeep
 

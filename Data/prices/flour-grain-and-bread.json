@@ -765,6 +765,33 @@
           "plural": "g"
         }
       }
+    },
+    "majstortilla": {
+      "unit": "stk",
+      "price": 1.5,
+      "conversions": {
+        "g": {
+          "units": 0.025
+        },
+        "kg": {
+          "units": 25
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        }
+      }
     }
   }
 }

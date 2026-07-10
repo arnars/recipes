@@ -958,6 +958,22 @@
           "plural": "g"
         }
       }
+    },
+    "svinebryst": {
+      "unit": "kg",
+      "price": 85,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }
