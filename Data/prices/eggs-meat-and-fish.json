@@ -974,6 +974,22 @@
           "plural": "g"
         }
       }
+    },
+    "flanksteak": {
+      "unit": "kg",
+      "price": 160,
+      "yield": 0.95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }

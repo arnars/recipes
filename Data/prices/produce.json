@@ -1098,6 +1098,18 @@
         }
       }
     },
+    "hjertesalat": {
+      "unit": "stk",
+      "price": 8,
+      "yield": 0.85,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
     "rucola": {
       "unit": "kg",
       "price": 130,

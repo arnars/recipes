@@ -1,6 +1,6 @@
 ---
 title: Limbo Uge 32
-date: "05-08-2026"
+date: "03-08-2026"
 location: Spinderigade 11a
 note: Limbo Menu Overview
 draft: false
@@ -9,31 +9,33 @@ draft: false
 = Generelt
 @./Indkøb og forbrug/mælk-til-kaffen{42%portioner}
 
-= Mandag
+= Mandag (12)
 
 > Prep Bigadej til tirsdag
 
-= Tirsdag
+= Tirsdag (7)
 @./Brød, pizza og dej/biga-pizzadej{10%portioner}
 @./Brød, pizza og dej/pizzatopping-kartoffel-karamelliseret-loeg-og-ansjos{4%portioner}
 @./Brød, pizza og dej/pizzatopping-marinara{4%portioner}
-@./Salater/rucola-med-citron-og-parmesan{8%portioner}
+@./Salater/rucola-med-citron-og-parmesan{7%portioner}
 
 > Prep rugbrød til onsdag
+> Prep foccacia til onsdag
 
-= Onsdag
+= Onsdag (12)
 @./Grønt/karamelliserede-guleroedder-med-gremolata{12%portioner}
 @./Grønt/italiensk-grillet-squash{12%portioner}
 @./Salater/hvide-boenner-med-citron-og-parmesan{12%portioner}
 @./Snacks og småretter/burrata-med-olivenolie-og-citron{12%portioner}
+@./Brød, pizza og dej/koldhaevet-focaccia{12%portioner}
 
 > Prep frokost til torsdag/fredag
 > Bag rugbrød til torsdag/fredag
 
-= Torsdag
+= Torsdag (6)
 @./Brød, pizza og dej/anders-rugbroed{1%portioner}
 @./Indkøb og forbrug/pålægsfrokost{6%portioner}
 
-= Fredag
+= Fredag (6)
 @./Brød, pizza og dej/anders-rugbroed{1%portioner}
 @./Indkøb og forbrug/pålægsfrokost{5%portioner}
