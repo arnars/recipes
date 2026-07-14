@@ -246,6 +246,30 @@
         }
       }
     },
+    "nori": {
+      "unit": "kg",
+      "price": 650,
+      "conversions": {
+        "ark": {
+          "grams": 2.5
+        }
+      },
+      "preferredUnit": "g",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "ark": {
+          "singular": "ark",
+          "plural": "ark"
+        }
+      }
+    },
     "ansjoser": {
       "unit": "kg",
       "price": 220,

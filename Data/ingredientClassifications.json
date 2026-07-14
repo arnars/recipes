@@ -612,6 +612,7 @@
       "ingredients": [
         "gulerod",
         "gulerødder",
+        "daikon",
         "selleri",
         "bladselleri",
         "knoldselleri",
@@ -870,7 +871,10 @@
       "triggerTags": [
         "fish"
       ],
-      "triggerIngredients": []
+      "triggerIngredients": [
+        "worcestershiresauce"
+      ],
+      "notes": "Worcestershiresauce indeholder ofte ansjoser; tjek konkret produkt."
     },
     "peanut": {
       "label": "Jordnødder",

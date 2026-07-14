@@ -1158,6 +1158,22 @@
         }
       }
     },
+    "daikon": {
+      "unit": "kg",
+      "price": 45,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "fennikel": {
       "unit": "stk",
       "price": 16,
