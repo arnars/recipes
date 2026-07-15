@@ -331,6 +331,31 @@
         }
       }
     },
+    "pastinak": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "stk": {
+          "grams": 140
+        }
+      },
+      "yield": 0.82,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "kartoffel": {
       "unit": "kg",
       "price": 18,
@@ -1023,6 +1048,31 @@
         "kg": {
           "singular": "kg",
           "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "broccoli": {
+      "unit": "kg",
+      "price": 32,
+      "conversions": {
+        "stk": {
+          "grams": 500
+        }
+      },
+      "yield": 0.72,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
         },
         "g": {
           "singular": "g",
@@ -2652,6 +2702,31 @@
         }
       }
     },
+    "savoykål": {
+      "unit": "kg",
+      "price": 30,
+      "conversions": {
+        "stk": {
+          "grams": 900
+        }
+      },
+      "yield": 0.82,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "fersken": {
       "unit": "kg",
       "price": 45,
@@ -3060,6 +3135,30 @@
         "kg": {
           "singular": "kg",
           "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "mikrogrønt": {
+      "unit": "kg",
+      "price": 300,
+      "conversions": {
+        "bakke": {
+          "grams": 30
+        }
+      },
+      "preferredUnit": "bakke",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "bakke": {
+          "singular": "bakke",
+          "plural": "bakker"
         },
         "g": {
           "singular": "g",

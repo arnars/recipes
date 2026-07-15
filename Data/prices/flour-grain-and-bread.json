@@ -396,6 +396,60 @@
         }
       }
     },
+    "paccheri": {
+      "unit": "kg",
+      "price": 45,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "cannelloni": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "stk": {
+          "grams": 14
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "makaroni": {
+      "unit": "kg",
+      "price": 28,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "ris": {
       "unit": "kg",
       "price": 25,
@@ -703,6 +757,22 @@
         }
       }
     },
+    "orzo": {
+      "unit": "kg",
+      "price": 38,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "risottoris": {
       "unit": "kg",
       "price": 42,
@@ -722,6 +792,22 @@
     "tipo 00 mel": {
       "unit": "kg",
       "price": 24,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "havregryn": {
+      "unit": "kg",
+      "price": 22,
       "pantry": true,
       "preferredUnit": "kg",
       "displayUnits": {

@@ -102,6 +102,21 @@
         }
       }
     },
+    "græskarkerne": {
+      "unit": "kg",
+      "price": 70,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "sennepsfrø": {
       "unit": "kg",
       "price": 55,
@@ -834,6 +849,38 @@
         "kg": {
           "singular": "kg",
           "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "stødt ingefær": {
+      "unit": "kg",
+      "price": 160,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2
+        },
+        "spsk": {
+          "grams": 6
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
         },
         "g": {
           "singular": "g",

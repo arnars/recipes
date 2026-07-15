@@ -616,6 +616,36 @@
         }
       }
     },
+    "fontina": {
+      "unit": "kg",
+      "price": 190,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "gruyere": {
+      "unit": "kg",
+      "price": 210,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "ost": {
       "unit": "kg",
       "price": 95,
@@ -765,6 +795,36 @@
     "mascarpone": {
       "unit": "kg",
       "price": 110,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "flødeost": {
+      "unit": "kg",
+      "price": 70,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "hytteost": {
+      "unit": "kg",
+      "price": 55,
       "preferredUnit": "kg",
       "displayUnits": {
         "kg": {

@@ -748,6 +748,38 @@
           "plural": "tsk"
         }
       }
+    },
+    "bagepulver": {
+      "unit": "kg",
+      "price": 90,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 4
+        },
+        "spsk": {
+          "grams": 12
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }

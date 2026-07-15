@@ -934,6 +934,22 @@
         }
       }
     },
+    "lammebov": {
+      "unit": "kg",
+      "price": 115,
+      "yield": 0.85,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "svinekoteletter med skaft": {
       "unit": "kg",
       "price": 95,

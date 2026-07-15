@@ -2586,6 +2586,222 @@
         }
       }
     },
+    "hønsebouillonterning": {
+      "unit": "stk",
+      "price": 1.5,
+      "pantry": true,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
+    "lammefond": {
+      "unit": "liter",
+      "price": 65,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "fiskesauce": {
+      "unit": "liter",
+      "price": 80,
+      "pantry": true,
+      "conversions": {
+        "g": {
+          "milliliters": 0.98
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        }
+      }
+    },
+    "østerssauce": {
+      "unit": "kg",
+      "price": 75,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 18
+        },
+        "tsk": {
+          "grams": 6
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sriracha": {
+      "unit": "kg",
+      "price": 65,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 17
+        },
+        "tsk": {
+          "grams": 5.7
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sød chilisauce": {
+      "unit": "kg",
+      "price": 45,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 18
+        },
+        "tsk": {
+          "grams": 6
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "silketofu": {
+      "unit": "kg",
+      "price": 55,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ristede skalotteløg": {
+      "unit": "kg",
+      "price": 90,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "hoisinsauce": {
       "unit": "kg",
       "price": 75,
