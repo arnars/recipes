@@ -2802,6 +2802,38 @@
         }
       }
     },
+    "granatæblesirup": {
+      "unit": "kg",
+      "price": 140,
+      "pantry": true,
+      "conversions": {
+        "spsk": {
+          "grams": 18
+        },
+        "tsk": {
+          "grams": 6
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "hoisinsauce": {
       "unit": "kg",
       "price": 75,

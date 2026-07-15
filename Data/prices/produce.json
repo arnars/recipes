@@ -3142,6 +3142,30 @@
         }
       }
     },
+    "soltørret tomat": {
+      "unit": "kg",
+      "price": 150,
+      "conversions": {
+        "stk": {
+          "grams": 8
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "mikrogrønt": {
       "unit": "kg",
       "price": 300,

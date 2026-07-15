@@ -452,6 +452,21 @@
         }
       }
     },
+    "røget laks": {
+      "unit": "kg",
+      "price": 280,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "kyllingebryst": {
       "unit": "kg",
       "price": 95,

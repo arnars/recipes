@@ -132,6 +132,38 @@
         }
       }
     },
+    "birkes": {
+      "unit": "kg",
+      "price": 70,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "nigellafrø": {
       "unit": "kg",
       "price": 120,
@@ -856,6 +888,38 @@
         }
       }
     },
+    "chilipulver": {
+      "unit": "kg",
+      "price": 160,
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2.5
+        },
+        "spsk": {
+          "grams": 7.5
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "stødt ingefær": {
       "unit": "kg",
       "price": 160,
@@ -990,6 +1054,30 @@
         "kg": {
           "singular": "kg",
           "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "jordnød": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "håndfuld": {
+          "grams": 30
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "håndfuld": {
+          "singular": "håndfuld",
+          "plural": "håndfulde"
         },
         "g": {
           "singular": "g",
