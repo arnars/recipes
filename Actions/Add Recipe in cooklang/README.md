@@ -32,7 +32,7 @@ Tjek en eller flere konkrete opskrifter:
 
 ```bash
 node "Actions/Add Recipe in cooklang/check-content.mjs" "Recipes/Kød/andesteg.cook"
-node "Actions/Add Recipe in cooklang/check-content.mjs" "Recipes/Kød/andesteg.cook" "Recipes/Brød, pizza og dej/crumpets.cook"
+node "Actions/Add Recipe in cooklang/check-content.mjs" "Recipes/Kød/andesteg.cook" "Recipes/Brød og dej/crumpets.cook"
 ```
 
 Vis også info-fund:

@@ -154,7 +154,7 @@ Pizzatopping-regler:
 - Brug altid tags `pizza` og `topping`, plus 1-4 relevante råvare-, teknik- eller udstyrstags.
 - Sæt som udgangspunkt `servings: 1`, så toppingen passer til én pizza og let kan skaleres.
 - Medtag ikke en separat `= Brug`-sektion, da den støjer i preplister.
-- Skriv i stedet denne praktiske note lige efter frontmatter: `> Brug toppingen på @./Brød, pizza og dej/biga-pizzadej{}, @./Brød, pizza og dej/new-york-style-pizzadej{} eller anden pizzadej.`
+- Skriv i stedet denne praktiske note lige efter frontmatter: `> Brug toppingen på @./Pizza/biga-pizzadej{}, @./Pizza/new-york-style-pizzadej{} eller anden pizzadej.`
 - Brug normalt `= Forberedelse` og derefter `= Topping og bagning`. Hvis toppingen først lægges på efter bagning, brug `= Servering` som sidste sektion.
 
 Vælg 3-6 `tags`.

@@ -14,9 +14,9 @@ draft: false
 > Prep Bigadej til tirsdag
 
 = Tirsdag (7)
-@./Brød, pizza og dej/biga-pizzadej{10%portioner}
-@./Brød, pizza og dej/pizzatopping-kartoffel-karamelliseret-loeg-og-ansjos{4%portioner}
-@./Brød, pizza og dej/pizzatopping-marinara{4%portioner}
+@./Pizza/biga-pizzadej{10%portioner}
+@./Pizza/pizzatopping-kartoffel-karamelliseret-loeg-og-ansjos{4%portioner}
+@./Pizza/pizzatopping-marinara{4%portioner}
 @./Salater/rucola-med-citron-og-parmesan{7%portioner}
 
 > Prep rugbrød til onsdag
@@ -27,15 +27,15 @@ draft: false
 @./Grønt/italiensk-grillet-squash{12%portioner}
 @./Salater/hvide-boenner-med-citron-og-parmesan{12%portioner}
 @./Snacks og småretter/burrata-med-olivenolie-og-citron{12%portioner}
-@./Brød, pizza og dej/koldhaevet-focaccia{12%portioner}
+@./Brød og dej/koldhaevet-focaccia{12%portioner}
 
 > Prep frokost til torsdag/fredag
 > Bag rugbrød til torsdag/fredag
 
 = Torsdag (6)
-@./Brød, pizza og dej/anders-rugbroed{1%portioner}
+@./Brød og dej/anders-rugbroed{1%portioner}
 @./Indkøb og forbrug/pålægsfrokost{6%portioner}
 
 = Fredag (6)
-@./Brød, pizza og dej/anders-rugbroed{1%portioner}
+@./Brød og dej/anders-rugbroed{1%portioner}
 @./Indkøb og forbrug/pålægsfrokost{5%portioner}
