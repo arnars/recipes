@@ -878,6 +878,60 @@
           "plural": "kg"
         }
       }
+    },
+    "grønne linser": {
+      "unit": "kg",
+      "price": 35,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "perlebyg": {
+      "unit": "kg",
+      "price": 28,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "ciabatta": {
+      "unit": "kg",
+      "price": 45,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      },
+      "conversions": {
+        "stk": {
+          "grams": 500
+        }
+      }
     }
   }
 }

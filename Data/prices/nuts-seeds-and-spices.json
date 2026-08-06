@@ -1212,6 +1212,181 @@
           "plural": "g"
         }
       }
+    },
+    "chipotleflager": {
+      "unit": "kg",
+      "price": 500,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        }
+      },
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2
+        },
+        "spsk": {
+          "grams": 6
+        }
+      }
+    },
+    "karrypulver": {
+      "unit": "kg",
+      "price": 140,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        }
+      },
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2.5
+        },
+        "spsk": {
+          "grams": 7.5
+        }
+      }
+    },
+    "sennepspulver": {
+      "unit": "kg",
+      "price": 120,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        }
+      },
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 3
+        },
+        "spsk": {
+          "grams": 9
+        }
+      }
+    },
+    "mandelflager": {
+      "unit": "kg",
+      "price": 120,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "tørret mynte": {
+      "unit": "kg",
+      "price": 160,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        }
+      },
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 0.7
+        },
+        "spsk": {
+          "grams": 2
+        }
+      }
+    },
+    "allehånde": {
+      "unit": "kg",
+      "price": 220,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        }
+      },
+      "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 2
+        },
+        "spsk": {
+          "grams": 6
+        }
+      }
     }
   }
 }

@@ -3315,6 +3315,76 @@
           "plural": "g"
         }
       }
+    },
+    "majs": {
+      "unit": "kg",
+      "price": 30,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "glaskål": {
+      "unit": "kg",
+      "price": 28,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      },
+      "conversions": {
+        "stk": {
+          "grams": 300
+        }
+      },
+      "yield": 0.85
+    },
+    "thaibasilikum": {
+      "unit": "kg",
+      "price": 300,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "østershat": {
+      "unit": "kg",
+      "price": 130,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }
