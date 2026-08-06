@@ -2399,22 +2399,6 @@
         }
       }
     },
-    "puy-linser": {
-      "unit": "kg",
-      "price": 48,
-      "pantry": true,
-      "preferredUnit": "kg",
-      "displayUnits": {
-        "kg": {
-          "singular": "kg",
-          "plural": "kg"
-        },
-        "g": {
-          "singular": "g",
-          "plural": "g"
-        }
-      }
-    },
     "sultanarosiner": {
       "unit": "kg",
       "price": 65,
@@ -2827,6 +2811,58 @@
         "tsk": {
           "singular": "tsk",
           "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "flåede tomater": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "dåse": {
+          "grams": 400
+        },
+        "ml": {
+          "grams": 1.03
+        },
+        "dl": {
+          "grams": 103
+        },
+        "l": {
+          "grams": 1030
+        },
+        "liter": {
+          "grams": 1030
+        }
+      },
+      "preferredUnit": "dåse",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "dåse": {
+          "singular": "dåse",
+          "plural": "dåser"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        },
+        "dl": {
+          "singular": "dl",
+          "plural": "dl"
+        },
+        "l": {
+          "singular": "l",
+          "plural": "l"
+        },
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
         },
         "g": {
           "singular": "g",

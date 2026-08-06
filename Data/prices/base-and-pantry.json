@@ -749,6 +749,22 @@
         }
       }
     },
+    "puy-linser": {
+      "unit": "kg",
+      "price": 48,
+      "pantry": true,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "bagepulver": {
       "unit": "kg",
       "price": 90,
