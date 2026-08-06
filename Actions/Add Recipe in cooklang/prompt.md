@@ -10,6 +10,19 @@ Titler skal være rene og korte. Brug rettens eller drinkens navn uden pyntende 
 
 Hvis information mangler, supplerer du med det mest sandsynlige baseret på kulinarisk erfaring. Du beder ikke om unødvendig afklaring, men udfylder huller med kvalificerede bud.
 
+Alle opskrifter skal have et `source`-felt i YAML-frontmatter.
+
+`source` skal være ét kort navn som almindelig tekst. Brug ikke URL, author-felt, nested source-metadata eller andre detaljer.
+
+Source-regler:
+
+- Ved opskrifter fra en bog: brug bogens titel, fx `River Cottage Veg Every Day`.
+- Ved opskrifter fra en hjemmeside: brug hjemmesidens eller udgiverens navn, fx `BBC Good Food`.
+- Ved opskrifter fra sociale medier: brug profilens navn eller handle, fx `@profilnavn`.
+- Ved brugerens egen opskrift eller en opskrift udviklet fra brugerens egen idé: brug `Anders`.
+- Hvis kilden ikke fremgår sikkert af materialet eller samtalen: brug `Ukendt`. Opfind ikke en sandsynlig kilde.
+- Når en eksisterende opskrift redigeres, skal dens nuværende `source` bevares, medmindre brugeren oplyser en ny eller korrigeret kilde.
+
 Lav et bud på `prepMinutes`, `cookMinutes` og `totalMinutes`, baseret på opskriftens kompleksitet og øvrige tidsangivelser.
 
 Alle tre tidsfelter skal angives som maskinlæsbare minutter i YAML-frontmatter.
@@ -184,6 +197,7 @@ Brug denne struktur:
 
 ---
 title: [kort dansk titel]
+source: [kort kildenavn, Anders eller Ukendt]
 category: [én kategori fra den kontrollerede liste]
 tags:
   - [tag]
