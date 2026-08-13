@@ -1078,6 +1078,22 @@
           "plural": "g"
         }
       }
+    },
+    "gouda": {
+      "unit": "kg",
+      "price": 105,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }

@@ -849,6 +849,15 @@
         "g": {
           "singular": "g",
           "plural": "g"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        }
+      },
+      "conversions": {
+        "skive": {
+          "grams": 35
         }
       }
     },
@@ -930,6 +939,22 @@
       "conversions": {
         "stk": {
           "grams": 500
+        }
+      }
+    },
+    "friske lasagneplader": {
+      "unit": "kg",
+      "price": 75,
+      "yield": 1,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
         }
       }
     }

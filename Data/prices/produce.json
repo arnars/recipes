@@ -3385,6 +3385,72 @@
           "plural": "g"
         }
       }
+    },
+    "cherrytomat": {
+      "unit": "kg",
+      "price": 55,
+      "conversions": {
+        "stk": {
+          "grams": 18
+        }
+      },
+      "yield": 0.95,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sød kartoffel": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "stk": {
+          "grams": 250
+        }
+      },
+      "yield": 0.86,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "sølvbede": {
+      "unit": "kg",
+      "price": 75,
+      "yield": 0.85,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }

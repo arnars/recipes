@@ -1387,6 +1387,92 @@
           "grams": 6
         }
       }
+    },
+    "stødt koriander": {
+      "unit": "kg",
+      "price": 220,
+      "conversions": {
+        "tsk": {
+          "grams": 2
+        },
+        "spsk": {
+          "grams": 6
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        }
+      }
+    },
+    "pimentón": {
+      "unit": "kg",
+      "price": 280,
+      "conversions": {
+        "tsk": {
+          "grams": 2.3
+        },
+        "spsk": {
+          "grams": 7
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        }
+      }
+    },
+    "tørret choricero-peber": {
+      "unit": "kg",
+      "price": 600,
+      "conversions": {
+        "stk": {
+          "grams": 5
+        }
+      },
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
     }
   }
 }

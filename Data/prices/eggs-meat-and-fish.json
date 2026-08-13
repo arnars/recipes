@@ -1021,6 +1021,243 @@
           "plural": "g"
         }
       }
+    },
+    "sardiner i olie": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "dåse": {
+          "grams": 120
+        }
+      },
+      "yield": 1,
+      "preferredUnit": "dåse",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "dåse": {
+          "singular": "dåse",
+          "plural": "dåser"
+        }
+      }
+    },
+    "røget kuller": {
+      "unit": "kg",
+      "price": 260,
+      "yield": 0.95,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "laksefilet": {
+      "unit": "kg",
+      "price": 210,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "makrelfilet": {
+      "unit": "kg",
+      "price": 160,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "grisepølse": {
+      "unit": "kg",
+      "price": 95,
+      "conversions": {
+        "stk": {
+          "grams": 75
+        }
+      },
+      "yield": 0.98,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "bacon": {
+      "unit": "kg",
+      "price": 125,
+      "conversions": {
+        "skive": {
+          "grams": 18
+        },
+        "skiver": {
+          "grams": 18
+        }
+      },
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "skive": {
+          "singular": "skive",
+          "plural": "skiver"
+        }
+      }
+    },
+    "hakket kalvekød": {
+      "unit": "kg",
+      "price": 145,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "tilberedt kylling": {
+      "unit": "kg",
+      "price": 95,
+      "yield": 1,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "kyllingefedt": {
+      "unit": "kg",
+      "price": 65,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "pancetta": {
+      "unit": "kg",
+      "price": 190,
+      "yield": 0.98,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "tilberedt perlehøne": {
+      "unit": "kg",
+      "price": 190,
+      "yield": 1,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "tilberedt kanin": {
+      "unit": "kg",
+      "price": 220,
+      "yield": 1,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
+    "okseskank": {
+      "unit": "kg",
+      "price": 135,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
     }
   }
 }

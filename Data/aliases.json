@@ -68,7 +68,8 @@
     "peberfrugt": [
       "peberfrugter",
       "rød peber",
-      "gul peber"
+      "gul peber",
+      "rød spidspeber"
     ],
     "gedeost": [
       "fast gedeost",
@@ -78,7 +79,8 @@
       "fetaost"
     ],
     "brød": [
-      "hvidt brød"
+      "hvidt brød",
+      "franskbrød"
     ],
     "spidskommen": [
       "spidskommenfrø"
@@ -135,6 +137,47 @@
     "nori": [
       "noriark",
       "nori ark"
+    ],
+    "æbler": [
+      "æble"
+    ],
+    "græsk yoghurt": [
+      "sødmælksyoghurt",
+      "sødmælksyogurt"
+    ],
+    "porrer": [
+      "porre"
+    ],
+    "flåede tomater": [
+      "flået tomat"
+    ],
+    "brune champignoner": [
+      "champignon"
+    ],
+    "oliven": [
+      "sort oliven",
+      "sorte oliven"
+    ],
+    "hvide bønner": [
+      "hvid bønne"
+    ],
+    "sultanarosiner": [
+      "sultana"
+    ],
+    "ærter": [
+      "ært"
+    ],
+    "svinekoteletter med skaft": [
+      "svinekotelet"
+    ],
+    "ristede pinjekerner": [
+      "pinjekerner"
+    ],
+    "cider": [
+      "æblecider"
+    ],
+    "skalotteløg": [
+      "bananskalotteløg"
     ]
   },
   "cookware": {
