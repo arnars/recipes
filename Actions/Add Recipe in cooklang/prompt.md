@@ -91,7 +91,8 @@ Vælg præcis én `category` fra denne kontrollerede liste:
 - salater
 - pasta
 - ris og korn
-- brød, pizza og dej
+- brød og dej
+- pizza
 - sandwich og toast
 - grønt
 - fisk og skaldyr
@@ -111,8 +112,9 @@ Kategori-regler:
 - Brug kun kategorier fra listen. Opfind ikke nye kategorier.
 - Brug lowercase præcis som angivet i listen.
 - Vælg efter rettens funktion, ikke kun efter råvare.
-- Brug `basis` til grundopskrifter og komponenter, fx fond, pizzadej, pastadej, syltede grøntsager, pesto, grundsauce og vinaigrette.
-- Brug `brød, pizza og dej` til pizza, focaccia, brød, boller, fladbrød, naan og lignende dejbaserede opskrifter.
+- Brug `basis` til grundopskrifter og komponenter, fx fond, pastadej, syltede grøntsager, pesto, grundsauce og vinaigrette.
+- Brug `brød og dej` til focaccia, brød, boller, fladbrød, naan og lignende dejbaserede opskrifter, der ikke primært er pizza.
+- Brug `pizza` til pizzadej, pizzaer og pizzatoppings.
 - Brug `sandwich og toast` til fyldte brød, toast, sandwiches, panuozzo, smørrebrød og lignende serveringer.
 - Brug `pasta` til færdige pastaretter, ikke til pastadej. Pastadej er `basis`.
 - Brug `saucer og dressinger` til selvstændige saucer, dressinger, dips og vinaigretter. Hvis saucen kun er en komponent i en større ret, kategoriseres den større ret.
@@ -126,10 +128,10 @@ Kategori-regler:
 
 Kategori-eksempler:
 
-- Pizzadej → basis
-- Pizza margherita → brød, pizza og dej
-- Pizzatopping: svampe og stracchino → brød, pizza og dej
-- Focaccia → brød, pizza og dej
+- Pizzadej → pizza
+- Pizza margherita → pizza
+- Pizzatopping: svampe og stracchino → pizza
+- Focaccia → brød og dej
 - Mortadella panuozzo → sandwich og toast
 - Croque monsieur → sandwich og toast
 - Pasta med tomatsauce → pasta
@@ -150,7 +152,7 @@ Kategori-eksempler:
 Pizzatopping-regler:
 
 - Hvis brugeren beder om en pizza topping, brug titel-formatet `Pizzatopping: [navn]`.
-- Brug `category: brød, pizza og dej`.
+- Brug `category: pizza`.
 - Brug altid tags `pizza` og `topping`, plus 1-4 relevante råvare-, teknik- eller udstyrstags.
 - Sæt som udgangspunkt `servings: 1`, så toppingen passer til én pizza og let kan skaleres.
 - Medtag ikke en separat `= Brug`-sektion, da den støjer i preplister.
@@ -226,6 +228,15 @@ draft: false
 > [kort note, kun hvis den hjælper kokken praktisk]
 
 [Instruktion med @ingredienser{mængde%enhed}, #udstyr{} og ~timere{mængde%enhed}.]
+
+Skalerbare instruktioner:
+
+- Skriv fremgangsmåden, så den fortsat giver mening, når opskriftens portionstal skaleres.
+- Cooklang skalerer mængder i `@ingrediens{mængde%enhed}`, men ikke faste tal skrevet som almindelig tekst. Gentag derfor ikke et skalerbart ingrediensantal som et fast tal i instruktionen.
+- Skriv fx `Lav fordybninger i saucen, og slå @æg{4%stk} ud i dem.` frem for `Lav 4 fordybninger i saucen, og slå @æg{4%stk} ud i dem.`
+- Når dej, fars eller lignende deles i portionsenheder, angiv helst en stabil enhedsvægt eller størrelse frem for grundopskriftens faste antal. Skriv fx `Del dejen i portioner a ca. 160 g.` frem for `Del dejen i 5 stykker.`
+- Faste tal må gerne stå i teksten, når de beskriver en metode, der ikke afhænger af skaleringen, fx antal foldninger, snit eller lag.
+- Kontrollér før aflevering, at tal i brødteksten ikke dublerer eller modsiger skalerbare mængder i Cooklang-tags.
 
 Regler:
 
