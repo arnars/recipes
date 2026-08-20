@@ -593,6 +593,30 @@
         }
       }
     },
+    "fennikelpollen": {
+      "unit": "kg",
+      "price": 2500,
+      "conversions": {
+        "tsk": {
+          "grams": 1
+        }
+      },
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "enebær": {
       "unit": "kg",
       "price": 180,
