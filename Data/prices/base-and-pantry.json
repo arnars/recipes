@@ -410,6 +410,11 @@
       "unit": "kg",
       "price": 35,
       "pantry": true,
+      "conversions": {
+        "tsk": {
+          "grams": 4.6
+        }
+      },
       "preferredUnit": "kg",
       "displayUnits": {
         "kg": {
@@ -419,6 +424,10 @@
         "g": {
           "singular": "g",
           "plural": "g"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
         }
       }
     },

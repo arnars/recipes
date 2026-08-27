@@ -383,6 +383,47 @@
         }
       }
     },
+    "umeshu genshu": {
+      "unit": "liter",
+      "price": 350,
+      "conversions": {
+        "g": {
+          "milliliters": 1
+        },
+        "spsk": {
+          "milliliters": 15
+        },
+        "tsk": {
+          "milliliters": 5
+        },
+        "ml": {
+          "milliliters": 1
+        }
+      },
+      "preferredUnit": "ml",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        },
+        "spsk": {
+          "singular": "spsk",
+          "plural": "spsk"
+        },
+        "tsk": {
+          "singular": "tsk",
+          "plural": "tsk"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
     "mezcal": {
       "unit": "liter",
       "price": 420,

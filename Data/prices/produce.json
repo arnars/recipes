@@ -1108,6 +1108,18 @@
         }
       }
     },
+    "icebergsalat": {
+      "unit": "stk",
+      "price": 16,
+      "yield": 0.85,
+      "preferredUnit": "stk",
+      "displayUnits": {
+        "stk": {
+          "singular": "stk",
+          "plural": "stk"
+        }
+      }
+    },
     "rucola": {
       "unit": "kg",
       "price": 130,
