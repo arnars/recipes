@@ -939,6 +939,11 @@
     "limeskal": {
       "unit": "kg",
       "price": 90,
+      "conversions": {
+        "stk": {
+          "grams": 2
+        }
+      },
       "preferredUnit": "kg",
       "displayUnits": {
         "kg": {
@@ -998,6 +1003,11 @@
     "appelsinskal": {
       "unit": "kg",
       "price": 70,
+      "conversions": {
+        "stk": {
+          "grams": 6
+        }
+      },
       "preferredUnit": "kg",
       "displayUnits": {
         "kg": {
