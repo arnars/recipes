@@ -1,5 +1,25 @@
 {
   "items": {
+    "øl": {
+      "unit": "liter",
+      "price": 45,
+      "conversions": {
+        "ml": {
+          "milliliters": 1
+        }
+      },
+      "preferredUnit": "liter",
+      "displayUnits": {
+        "liter": {
+          "singular": "liter",
+          "plural": "liter"
+        },
+        "ml": {
+          "singular": "ml",
+          "plural": "ml"
+        }
+      }
+    },
     "hvidvin": {
       "unit": "liter",
       "price": 80,
