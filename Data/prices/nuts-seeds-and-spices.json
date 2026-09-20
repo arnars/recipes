@@ -1,5 +1,21 @@
 {
   "items": {
+    "macadamianød": {
+      "unit": "kg",
+      "price": 220,
+      "yield": 1,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "mandler": {
       "unit": "kg",
       "price": 95,
@@ -1495,6 +1511,19 @@
         "stk": {
           "singular": "stk",
           "plural": "stk"
+        }
+      }
+    },
+    "røgede mandler": {
+      "unit": "kg",
+      "price": 180
+    },
+    "tørret oregano": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "tsk": {
+          "grams": 1
         }
       }
     }

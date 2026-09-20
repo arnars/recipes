@@ -39,6 +39,9 @@
     "gulerod": [
       "gulerødder"
     ],
+    "blomme": [
+      "blommer"
+    ],
     "kartoffel": [
       "kartofler",
       "nye kartofler"
@@ -100,6 +103,9 @@
     ],
     "græskarkerne": [
       "græskarkerner"
+    ],
+    "macadamianød": [
+      "macadamianødder"
     ],
     "puy-linser": [
       "puy linser"
@@ -183,6 +189,9 @@
     "svinekoteletter med skaft": [
       "svinekotelet"
     ],
+    "nakkefilet": [
+      "svinenakke"
+    ],
     "ristede pinjekerner": [
       "pinjekerner"
     ],
@@ -191,6 +200,15 @@
     ],
     "skalotteløg": [
       "bananskalotteløg"
+    ],
+    "cherrytomat": [
+      "cherrytomater"
+    ],
+    "røgaroma": [
+      "liquid smoke"
+    ],
+    "gær": [
+      "frisk gær"
     ]
   },
   "cookware": {

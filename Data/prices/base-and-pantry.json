@@ -805,6 +805,14 @@
           "plural": "g"
         }
       }
+    },
+    "lys sirup": {
+      "unit": "kg",
+      "price": 35
+    },
+    "mørk chokolade": {
+      "unit": "kg",
+      "price": 160
     }
   }
 }

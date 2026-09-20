@@ -2052,6 +2052,22 @@
         }
       }
     },
+    "blomme": {
+      "unit": "kg",
+      "price": 45,
+      "yield": 0.9,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "citron": {
       "unit": "stk",
       "price": 4,
@@ -3280,6 +3296,22 @@
         }
       }
     },
+    "gul bede": {
+      "unit": "kg",
+      "price": 25,
+      "yield": 0.85,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "peberfrugt": {
       "unit": "stk",
       "price": 8,
@@ -3463,6 +3495,45 @@
           "plural": "g"
         }
       }
+    },
+    "broccolini": {
+      "unit": "kg",
+      "price": 100
+    },
+    "grønkål": {
+      "unit": "kg",
+      "price": 55
+    },
+    "citrongræs": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {
+        "stk": {
+          "grams": 20
+        }
+      }
+    },
+    "karryblade": {
+      "unit": "kg",
+      "price": 800
+    },
+    "majskolber": {
+      "unit": "stk",
+      "price": 8
+    },
+    "grøn salat": {
+      "unit": "kg",
+      "price": 90
+    },
+    "pære": {
+      "unit": "kg",
+      "price": 28,
+      "conversions": {
+        "stk": {
+          "grams": 180
+        }
+      },
+      "yield": 0.88
     }
   }
 }

@@ -957,6 +957,38 @@
           "plural": "g"
         }
       }
+    },
+    "fuldkornsperlecouscous": {
+      "unit": "kg",
+      "price": 65
+    },
+    "kartoffelgnocchi": {
+      "unit": "kg",
+      "price": 55
+    },
+    "kikærtemel": {
+      "unit": "kg",
+      "price": 55
+    },
+    "røde linser": {
+      "unit": "kg",
+      "price": 38
+    },
+    "naan": {
+      "unit": "stk",
+      "price": 8
+    },
+    "mariagertoba t70": {
+      "unit": "kg",
+      "price": 40
+    },
+    "speltmel": {
+      "unit": "kg",
+      "price": 35
+    },
+    "rismel": {
+      "unit": "kg",
+      "price": 35
     }
   }
 }

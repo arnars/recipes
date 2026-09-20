@@ -3,25 +3,32 @@ title: Limbo Uge 39
 date: "21-09-2026"
 location: Spinderigade 11a
 note: Limbo Menu Overview
-draft: true
+draft: false
 ---
 
 = Generelt
-@./Indkøb og forbrug/mælk-til-kaffen{60%portioner}
+@./Indkøb og forbrug/mælk-til-kaffen{50%portioner}
 
-= Mandag (20)
+= Mandag (14)
 
+> Ristede rugbrødsstænger med hvid bønnemos
 
-= Tirsdag (11)
-@./Grønt/miso-smoer-loeg{11%portioner}
+@./Pasta/gnocchi-med-majs-og-ricotta{14%portioner}
+@./Saucer og dressinger/hvid-boennemos-med-hvidloegsaioli{14%portioner}
+
+= Tirsdag (10)
+@./Kød/paprikamoerbrad-med-romesco-kikaerter-og-groenkaal{10%portioner}
+@./Salater/salat-med-grillet-squash-orzo-og-butterbeans{10%portioner}
 
 > Prep rugbrød til onsdag
 
-= Onsdag (15)
+= Onsdag (17)
+@./Salater/kartoffelsalat-tartare{17%portioner}
+@./Pasta/mac-and-cheese-med-bagt-blomkaal{17%portioner}
 
 > Prep frokost til torsdag/fredag
 > Bag rugbrød til torsdag/fredag
 
-= Torsdag/fredag (9 + 6)
+= Torsdag/fredag (6 + 8)
 @./Brød og dej/anders-rugbroed{1%portioner}
-@./Indkøb og forbrug/pålægsfrokost{15%portioner}
+@./Indkøb og forbrug/pålægsfrokost{14%portioner}

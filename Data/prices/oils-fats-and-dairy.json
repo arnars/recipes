@@ -1079,6 +1079,22 @@
         }
       }
     },
+    "vaniljeis": {
+      "unit": "kg",
+      "price": 90,
+      "yield": 1,
+      "preferredUnit": "kg",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "gouda": {
       "unit": "kg",
       "price": 105,
@@ -1094,6 +1110,14 @@
           "plural": "g"
         }
       }
+    },
+    "halloumi": {
+      "unit": "kg",
+      "price": 120
+    },
+    "kokosyoghurt": {
+      "unit": "kg",
+      "price": 85
     }
   }
 }

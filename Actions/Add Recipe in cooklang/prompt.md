@@ -251,6 +251,15 @@ Regler:
 - Brug `@ingrediens{}` når ingrediensen bruges uden præcis mængde.
 - Brug `#udstyr{}` til udstyr, aldrig `@udstyr{}`. Udstyr er fx pizzaovn, røremaskine, blender, gryde, pande, bageplade, rist, termometer og sigte.
 
+Gærtype:
+
+- Angiv altid bagegær eksplicit som `@tørgær{mængde%g}` eller `@frisk gær{mængde%g}`. Brug aldrig blot `@gær{}` i opskrifter.
+- Foretræk instant tørgær i nye udviklede opskrifter, og angiv `(instant)`, når denne type forudsættes. Skeln fra aktiv tørgær, hvis kilden kræver rehydrering.
+- Bevar en kendt eller brugerbekræftet gærtype og mængde ved renskrivning. En præcisering af typen er ikke automatisk en omregning af mængden.
+- Ved et egentligt skift mellem frisk gær og tørgær skal mængden omregnes efter produktets anvisning. Som udgangspunkt kan 25 g frisk gær regnes som 7 g instant tørgær; dokumentér omregningen kort, hvis den er relevant.
+- Tilpas arbejdsgangen til gærtypen: frisk gær opløses normalt i væsken, instant tørgær kan blandes med melet. Følg altid produktets anvisning.
+- Hvis kildens gærtype er uklar, må den ikke gættes alene ud fra ordet gær eller yeast. Vurder mængde, hævetid og temperatur; gør en vigtig antagelse tydelig eller afklar typen med brugeren.
+
 Ingredient preparation / mise en place:
 
 - Brug parentes efter ingrediensen til at angive råvarens mise en place-niveau: hvor langt råvaren skal være klargjort, når den bruges i trinnet.

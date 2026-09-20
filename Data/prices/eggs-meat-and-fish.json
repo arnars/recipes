@@ -814,6 +814,22 @@
         }
       }
     },
+    "caviar": {
+      "unit": "kg",
+      "price": 18000,
+      "yield": 1,
+      "preferredUnit": "g",
+      "displayUnits": {
+        "kg": {
+          "singular": "kg",
+          "plural": "kg"
+        },
+        "g": {
+          "singular": "g",
+          "plural": "g"
+        }
+      }
+    },
     "10-armede blæksprutter": {
       "unit": "kg",
       "price": 140,
@@ -1305,6 +1321,15 @@
           "plural": "g"
         }
       }
+    },
+    "svinemørbrad": {
+      "unit": "kg",
+      "price": 110
+    },
+    "kalveculotte": {
+      "unit": "kg",
+      "price": 220,
+      "yield": 0.95
     }
   }
 }

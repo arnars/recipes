@@ -3123,6 +3123,51 @@
           "plural": "tsk"
         }
       }
+    },
+    "butterbeans": {
+      "unit": "kg",
+      "price": 45,
+      "conversions": {
+        "dåse": {
+          "grams": 240
+        }
+      }
+    },
+    "kalamataoliven": {
+      "unit": "kg",
+      "price": 110
+    },
+    "mangochutney": {
+      "unit": "kg",
+      "price": 70
+    },
+    "stærk chilisauce": {
+      "unit": "liter",
+      "price": 130,
+      "conversions": {
+        "spsk": {
+          "milliliters": 15
+        }
+      }
+    },
+    "kikærtelage": {
+      "unit": "liter",
+      "price": 0,
+      "note": "Lage fra de købte kikærter; prisen dækkes af kikærterne."
+    },
+    "parmesanskorpe": {
+      "unit": "kg",
+      "price": 0,
+      "note": "Rest fra parmesan; prisen dækkes af osten."
+    },
+    "røgaroma": {
+      "unit": "liter",
+      "price": 600
+    },
+    "urteolie": {
+      "unit": "kg",
+      "price": 100,
+      "note": "Antaget råvarepris for færdig, filtreret urteolie af neutral olie og friske urter."
     }
   }
 }

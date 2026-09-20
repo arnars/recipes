@@ -15,6 +15,7 @@
         "boquerones",
         "brunet smør",
         "burrata",
+        "caviar",
         "cheddar",
         "creme fraiche",
         "creme fraiche 38%",
@@ -50,6 +51,7 @@
         "jomfruhummer",
         "jomfruhummerhaler",
         "kalkun",
+        "kalveculotte",
         "kalveinderlår",
         "kalvekød",
         "kammusling",
@@ -121,12 +123,16 @@
         "tun i olie",
         "vildsvinefars",
         "vildsvinekød",
+        "vaniljeis",
         "yoghurt",
         "æg",
         "æggeblomme",
         "æggehvide",
         "østers",
-        "østerssauce"
+        "østerssauce",
+        "halloumi",
+        "svinemørbrad",
+        "parmesanskorpe"
       ],
       "notes": "Bruges bredt til vegetarisk og vegansk klassifikation."
     },
@@ -144,6 +150,7 @@
         "hakket lammekød",
         "hakket oksekød",
         "hakket vildsvinekød",
+        "kalveculotte",
         "kalveinderlår",
         "kalvekød",
         "knoglemarv",
@@ -171,7 +178,8 @@
         "svinekoteletter med skaft",
         "svinekød",
         "vildsvinefars",
-        "vildsvinekød"
+        "vildsvinekød",
+        "svinemørbrad"
       ]
     },
     "poultry": {
@@ -204,6 +212,7 @@
         "ansjoser",
         "ansjosfileter",
         "boquerones",
+        "caviar",
         "fisk",
         "fiskesauce",
         "laks",
@@ -265,6 +274,7 @@
         "ansjosfileter",
         "blæksprutte",
         "boquerones",
+        "caviar",
         "fisk",
         "fiskesauce",
         "hummer",
@@ -335,8 +345,11 @@
         "smør",
         "stracchino",
         "sødmælk",
+        "vaniljeis",
         "valle",
-        "yoghurt"
+        "yoghurt",
+        "halloumi",
+        "parmesanskorpe"
       ],
       "notes": "Dækker mælkeprotein. Laktose vurderes med separat tag."
     },
@@ -366,8 +379,10 @@
         "skummetmælk",
         "skyr",
         "sødmælk",
+        "vaniljeis",
         "valle",
-        "yoghurt"
+        "yoghurt",
+        "halloumi"
       ],
       "notes": "Smør og faste lagrede oste er ikke medtaget som standard, da laktoseindholdet ofte er lavt. Produkt kan variere."
     },
@@ -453,7 +468,12 @@
         "t70 hvedemel",
         "tipo 00 mel",
         "tipo 00-mel",
-        "ægnudler"
+        "ægnudler",
+        "fuldkornsperlecouscous",
+        "kartoffelgnocchi",
+        "naan",
+        "mariagertoba t70",
+        "speltmel"
       ],
       "notes": "Havre håndteres separat, da ren certificeret havre er en særskilt produkttype."
     },
@@ -507,7 +527,12 @@
         "t70 hvedemel",
         "tipo 00 mel",
         "tipo 00-mel",
-        "ægnudler"
+        "ægnudler",
+        "fuldkornsperlecouscous",
+        "kartoffelgnocchi",
+        "naan",
+        "mariagertoba t70",
+        "speltmel"
       ]
     },
     "rye": {
@@ -564,7 +589,8 @@
         "pistaciecreme",
         "pistacienødder",
         "valnød",
-        "valnødder"
+        "valnødder",
+        "røgede mandler"
       ],
       "notes": "Jordnød er ikke medtaget; den håndteres separat."
     },
@@ -578,7 +604,8 @@
         "mandel",
         "mandelflager",
         "mandelmel",
-        "mandler"
+        "mandler",
+        "røgede mandler"
       ],
       "notes": "Mandelmel kan være acceptabelt i varmebehandlet bagværk for den konkrete allergiker; markér derfor som kræver vurdering frem for absolut stop."
     },
@@ -646,7 +673,11 @@
         "tempeh",
         "tofu",
         "ært",
-        "ærter"
+        "ærter",
+        "butterbeans",
+        "kikærtemel",
+        "røde linser",
+        "kikærtelage"
       ]
     },
     "soy": {
@@ -695,6 +726,7 @@
         "pastinakker",
         "rødbede",
         "rødbeder",
+        "gul bede",
         "bede",
         "rodfrugt",
         "rodfrugter",
@@ -708,7 +740,9 @@
       "ingredients": [
         "brøndkarse",
         "salatblade",
-        "vintersalat"
+        "vintersalat",
+        "grøn salat",
+        "grønkål"
       ],
       "notes": "Relevant især når ingrediensen serveres rå. Varmebehandlet grønt er typisk acceptabel for den konkrete allergiker."
     },
@@ -895,7 +929,9 @@
         "tomat",
         "tomater",
         "tomatpuré",
-        "tørret choricero-peber"
+        "tørret choricero-peber",
+        "kartoffelgnocchi",
+        "stærk chilisauce"
       ]
     },
     "personalRawFruit": {
