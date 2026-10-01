@@ -989,6 +989,10 @@
     "rismel": {
       "unit": "kg",
       "price": 35
+    },
+    "savoiardi": {
+      "unit": "kg",
+      "price": 100
     }
   }
 }

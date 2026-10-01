@@ -2585,6 +2585,12 @@
         },
         "tsk": {
           "grams": 1
+        },
+        "kvist": {
+          "grams": 2
+        },
+        "blad": {
+          "grams": 0.3
         }
       },
       "preferredUnit": "bundt",

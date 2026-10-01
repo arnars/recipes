@@ -1163,6 +1163,10 @@
           "plural": "tsk"
         }
       }
+    },
+    "marsala": {
+      "unit": "liter",
+      "price": 160
     }
   }
 }

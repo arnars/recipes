@@ -132,7 +132,10 @@
         "østerssauce",
         "halloumi",
         "svinemørbrad",
-        "parmesanskorpe"
+        "parmesanskorpe",
+        "pasteuriseret æggeblomme",
+        "savoiardi",
+        "oksebov"
       ],
       "notes": "Bruges bredt til vegetarisk og vegansk klassifikation."
     },
@@ -179,7 +182,8 @@
         "svinekød",
         "vildsvinefars",
         "vildsvinekød",
-        "svinemørbrad"
+        "svinemørbrad",
+        "oksebov"
       ]
     },
     "poultry": {
@@ -394,7 +398,9 @@
         "pasteuriseret æggehvide",
         "æg",
         "æggeblomme",
-        "æggehvide"
+        "æggehvide",
+        "pasteuriseret æggeblomme",
+        "savoiardi"
       ]
     },
     "honey": {
@@ -473,7 +479,8 @@
         "kartoffelgnocchi",
         "naan",
         "mariagertoba t70",
-        "speltmel"
+        "speltmel",
+        "savoiardi"
       ],
       "notes": "Havre håndteres separat, da ren certificeret havre er en særskilt produkttype."
     },
@@ -532,7 +539,8 @@
         "kartoffelgnocchi",
         "naan",
         "mariagertoba t70",
-        "speltmel"
+        "speltmel",
+        "savoiardi"
       ]
     },
     "rye": {
@@ -784,7 +792,8 @@
         "tørret abrikos",
         "vin",
         "vineddike",
-        "vinrester"
+        "vinrester",
+        "marsala"
       ],
       "notes": "Sulfitter afhænger af produkt og mængde; dette er en konservativ indikator, ikke en garanti."
     },
@@ -830,7 +839,8 @@
         "whisky",
         "yuzu likør",
         "æblecider",
-        "øl"
+        "øl",
+        "marsala"
       ],
       "notes": "Alkohol kan fordampe delvist ved tilberedning, men klassificeres ud fra ingredienslisten."
     },

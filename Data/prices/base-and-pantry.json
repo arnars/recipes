@@ -813,6 +813,14 @@
     "mørk chokolade": {
       "unit": "kg",
       "price": 160
+    },
+    "husblas": {
+      "unit": "kg",
+      "price": 1500
+    },
+    "kakao": {
+      "unit": "kg",
+      "price": 160
     }
   }
 }

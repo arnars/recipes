@@ -9,6 +9,11 @@
           "singular": "stk",
           "plural": "stk"
         }
+      },
+      "conversions": {
+        "g": {
+          "units": 0.02
+        }
       }
     },
     "æggeblommer": {
@@ -1329,6 +1334,15 @@
     "kalveculotte": {
       "unit": "kg",
       "price": 220,
+      "yield": 0.95
+    },
+    "pasteuriseret æggeblomme": {
+      "unit": "kg",
+      "price": 150
+    },
+    "oksebov": {
+      "unit": "kg",
+      "price": 140,
       "yield": 0.95
     }
   }
