@@ -3,27 +3,34 @@ title: Limbo Uge 43
 date: "19-10-2026"
 location: Spinderigade 11a
 note: Limbo Menu Overview
-draft: true
+draft: false
 ---
 
 = Generelt
-@./Indkøb og forbrug/mælk-til-kaffen{63%portioner}
+@./Indkøb og forbrug/mælk-til-kaffen{62%portioner}
 
-= Mandag (20)
-> + suppehorn
-@./Supper/cannelliniboenne-og-porresuppe-med-chiliolie{20%portioner}
-
+= Mandag (18)
+@./Ris og korn/risotto-med-majspure{18%portioner}
+&Hotwings
+&Salat, hvis noget tilovers
+> Lav mørdej, skær porrer og evt. palmekål
 
 = Tirsdag (11)
+@./Grønt/pocheret-porre-og-blaaskimmelosttaerte{11%portioner}
+@./Grønt/palmekaal-med-chorizo-og-saltede-citroner{11%portioner}
 
+> Prep butternut og squash
+> Prep foccacia
 > Prep rugbrød til onsdag
 
-= Onsdag (15)
-
+= Onsdag (17)
+@./Brød og dej/koldhaevet-focaccia{2%portioner}
+@./Grønt/butternut-med-roedbede-boennepure-og-feta{17%portioner}
+@./Salater/salat-med-grillet-squash-orzo-og-butterbeans{17%portioner}
 
 > Prep frokost til torsdag/fredag
 > Bag rugbrød til torsdag/fredag
 
-= Torsdag/fredag (11 + 6)
+= Torsdag/fredag (9 + 7)
 @./Brød og dej/anders-rugbroed{1%portioner}
-@./Indkøb og forbrug/pålægsfrokost{15%portioner}
+@./Indkøb og forbrug/pålægsfrokost{16%portioner}

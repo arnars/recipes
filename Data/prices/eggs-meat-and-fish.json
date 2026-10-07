@@ -1,5 +1,9 @@
 {
   "items": {
+    "ørredrogn": {
+      "unit": "kg",
+      "price": 1000
+    },
     "æg": {
       "unit": "stk",
       "price": 3.25,

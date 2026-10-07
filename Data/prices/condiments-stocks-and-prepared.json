@@ -1,5 +1,17 @@
 {
   "items": {
+    "hummerfond": {
+      "unit": "liter",
+      "price": 80
+    },
+    "noriskåle": {
+      "unit": "stk",
+      "price": 2.05
+    },
+    "syltede sennepsfrø": {
+      "unit": "kg",
+      "price": 200
+    },
     "tørrede morkler": {
       "unit": "kg",
       "price": 3200,

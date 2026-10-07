@@ -1,5 +1,9 @@
 {
   "items": {
+    "tapiokaperler": {
+      "unit": "kg",
+      "price": 80
+    },
     "surdej": {
       "unit": "kg",
       "price": 0,

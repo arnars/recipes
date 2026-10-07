@@ -3,27 +3,29 @@ title: Limbo Uge 41
 date: "05-10-2026"
 location: Spinderigade 11a
 note: Limbo Menu Overview
-draft: true
+draft: false
 ---
 
 = Generelt
-@./Indkøb og forbrug/mælk-til-kaffen{63%portioner}
+@./Indkøb og forbrug/mælk-til-kaffen{58%portioner}
 
-= Mandag (20)
-> + suppehorn
-@./Supper/cannelliniboenne-og-porresuppe-med-chiliolie{20%portioner}
+= Mandag (18)
+> Suppe + suppehorn
+@./Supper/cannelliniboenne-og-porresuppe-med-chiliolie{18%portioner}
+&Rugbrødscroutoner()
 
-
-= Tirsdag (11)
-
+= Tirsdag (9)
 > Prep rugbrød til onsdag
+@./Grønt/svamperagout-med-bloed-polenta{9%portioner}
+&Hjertesalat med vinaigrette(@Hjertesalat{12})
 
-= Onsdag (15)
-
+= Onsdag (20)
+@./Grønt/kartofler-og-butternut-bagt-i-floede{20%portioner}
+@./Salater/fennikel-aeble-og-gedeost{20%portioner}
 
 > Prep frokost til torsdag/fredag
 > Bag rugbrød til torsdag/fredag
 
-= Torsdag/fredag (11 + 6)
+= Torsdag/fredag (7 + 6)
 @./Brød og dej/anders-rugbroed{1%portioner}
-@./Indkøb og forbrug/pålægsfrokost{15%portioner}
+@./Indkøb og forbrug/pålægsfrokost{13%portioner}

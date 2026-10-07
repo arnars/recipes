@@ -1118,6 +1118,10 @@
     "kokosyoghurt": {
       "unit": "kg",
       "price": 85
+    },
+    "mælkepulver": {
+      "unit": "kg",
+      "price": 120
     }
   }
 }

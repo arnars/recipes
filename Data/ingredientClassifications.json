@@ -16,6 +16,7 @@
         "brunet smør",
         "burrata",
         "caviar",
+        "ørredrogn",
         "cheddar",
         "creme fraiche",
         "creme fraiche 38%",
@@ -43,6 +44,7 @@
         "hakket vildsvinekød",
         "honning",
         "hummer",
+        "hummerfond",
         "husblas",
         "hytteost",
         "hønsebouillonterning",
@@ -135,7 +137,8 @@
         "parmesanskorpe",
         "pasteuriseret æggeblomme",
         "savoiardi",
-        "oksebov"
+        "oksebov",
+        "mælkepulver"
       ],
       "notes": "Bruges bredt til vegetarisk og vegansk klassifikation."
     },
@@ -217,6 +220,7 @@
         "ansjosfileter",
         "boquerones",
         "caviar",
+        "ørredrogn",
         "fisk",
         "fiskesauce",
         "laks",
@@ -243,6 +247,7 @@
       "description": "Skaldyr som rejer, krabber, hummere og krebs.",
       "ingredients": [
         "hummer",
+        "hummerfond",
         "jomfruhummer",
         "jomfruhummerhaler",
         "krabbe",
@@ -279,9 +284,11 @@
         "blæksprutte",
         "boquerones",
         "caviar",
+        "ørredrogn",
         "fisk",
         "fiskesauce",
         "hummer",
+        "hummerfond",
         "jomfruhummer",
         "jomfruhummerhaler",
         "kammusling",
@@ -763,6 +770,7 @@
         "grov sennep",
         "sennep",
         "sennepsfrø",
+        "syltede sennepsfrø",
         "sennepspulver"
       ]
     },
