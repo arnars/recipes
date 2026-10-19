@@ -1,5 +1,10 @@
 {
   "items": {
+    "masa harina": {
+      "unit": "kg",
+      "price": 60,
+      "conversions": {"ml": {"grams": 0.6}}
+    },
     "tapiokaperler": {
       "unit": "kg",
       "price": 80

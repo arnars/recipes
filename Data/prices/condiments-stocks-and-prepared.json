@@ -1,5 +1,10 @@
 {
   "items": {
+    "chipotle i adobo": {
+      "unit": "kg",
+      "price": 180,
+      "conversions": {"spsk": {"grams": 15}}
+    },
     "hummerfond": {
       "unit": "liter",
       "price": 80
