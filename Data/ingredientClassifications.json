@@ -138,7 +138,8 @@
         "pasteuriseret æggeblomme",
         "savoiardi",
         "oksebov",
-        "mælkepulver"
+        "mælkepulver",
+        "nutella"
       ],
       "notes": "Bruges bredt til vegetarisk og vegansk klassifikation."
     },
@@ -360,7 +361,8 @@
         "valle",
         "yoghurt",
         "halloumi",
-        "parmesanskorpe"
+        "parmesanskorpe",
+        "nutella"
       ],
       "notes": "Dækker mælkeprotein. Laktose vurderes med separat tag."
     },
@@ -393,7 +395,8 @@
         "vaniljeis",
         "valle",
         "yoghurt",
-        "halloumi"
+        "halloumi",
+        "nutella"
       ],
       "notes": "Smør og faste lagrede oste er ikke medtaget som standard, da laktoseindholdet ofte er lavt. Produkt kan variere."
     },
@@ -605,7 +608,8 @@
         "pistacienødder",
         "valnød",
         "valnødder",
-        "røgede mandler"
+        "røgede mandler",
+        "nutella"
       ],
       "notes": "Jordnød er ikke medtaget; den håndteres separat."
     },
@@ -620,7 +624,8 @@
         "mandelflager",
         "mandelmel",
         "mandler",
-        "røgede mandler"
+        "røgede mandler",
+        "nutella"
       ],
       "notes": "Mandelmel kan være acceptabelt i varmebehandlet bagværk for den konkrete allergiker; markér derfor som kræver vurdering frem for absolut stop."
     },
@@ -712,7 +717,8 @@
         "sojasauce",
         "tamari",
         "tempeh",
-        "tofu"
+        "tofu",
+        "nutella"
       ],
       "notes": "Raffineret sojaolie og fermenterede produkter vurderes forskelligt afhængigt af produkt."
     },

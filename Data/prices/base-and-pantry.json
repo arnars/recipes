@@ -821,6 +821,10 @@
     "kakao": {
       "unit": "kg",
       "price": 160
+    },
+    "nutella": {
+      "unit": "kg",
+      "price": 100
     }
   }
 }

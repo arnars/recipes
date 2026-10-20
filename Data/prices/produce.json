@@ -1,5 +1,14 @@
 {
   "items": {
+    "karse": {
+      "unit": "kg",
+      "price": 500,
+      "conversions": {
+        "spsk": {
+          "grams": 2
+        }
+      }
+    },
     "løg": {
       "unit": "kg",
       "price": 18,
@@ -3540,6 +3549,11 @@
         }
       },
       "yield": 0.88
+    },
+    "banan": {
+      "unit": "kg",
+      "price": 22,
+      "yield": 0.65
     }
   }
 }
